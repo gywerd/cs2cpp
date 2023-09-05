@@ -1,6 +1,21 @@
 ### cs2cpp
 # From C# to C++
 
+## Index
+- Introduction
+	- Highlights
+- Note index
+	- Part 1
+	- Part 2
+	- Part 3
+	- Part 4
+	- Part 5
+	- Part 6
+	- Part 7
+	- Part 8
+- Litterature
+- Curriculum
+
 ## Introduction
 
 This repo is intended as an aid for experienced C# programmers transitioning to C++. It is comprehensive, but not conclusive for everyone, as it follows my learning path and the curriculum I've developed for myself. There might be overlap between content of books resulting in minor adjustments of the curriculum, while I learn.
@@ -48,7 +63,7 @@ This repo is intended as an aid for experienced C# programmers transitioning to 
 
 21. **Reference qualifiers** for types like `-'&'` and `-'&&'` are important in C++, especially in constructors/methods, and are reminiscent of the use of `ref` and `out` in C# - e.g., `Foo (const string& strName) {…}` and `Foo bar(const string& strname) {…}`.
 
-## Notes index
+## Note index
 _(see files)_
 
 - Part 1
