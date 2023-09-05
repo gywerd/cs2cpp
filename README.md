@@ -49,7 +49,7 @@ This repo is intended as an aid for experienced C# programmers transitioning to 
 
 ## Notes
 - Part 1
-  - Professional C++. Ch. 1. A Crash Course in C++ and the Standard Library 
+	- Professional C++. Ch. 1. A Crash Course in C++ and the Standard Library 
 	- As this is a crash course, theres a lot to comprehend. Fortunately it is followed up later in the book etc.
 - Part 2
 	- A Tour of C++. Ch. 1. The Basics
