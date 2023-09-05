@@ -5,6 +5,7 @@
 
 This repo is intended as an aid for experienced C# programmers transitioning to C++. It is comprehensive, but not conclusive for everyone, as it follows my learning path and the curriculum I've developed for myself. There might be overlap between content of books resulting in minor adjustments of the curriculum, while I learn.
 
+### Highlights
 1. The transition from C# to C++ involves understanding the differences and similarities between the two languages, as well as adapting to C++'s manual memory management and more flexible nature.
 
 2. Avoid Pointers in C++ where applicable. Pointers were a fundamental part of C++ and have a broader range of applications than just hardware control. They are used for dynamic memory management, data structures, function pointers, efficiency, and more.
