@@ -48,7 +48,9 @@ This repo is intended as an aid for experienced C# programmers transitioning to 
 
 21. **Reference qualifiers** for types like `-'&'` and `-'&&'` are important in C++, especially in constructors/methods, and are reminiscent of the use of `ref` and `out` in C# - e.g., `Foo (const string& strName) {…}` and `Foo bar(const string& strname) {…}`.
 
-## Notes
+## Notes index
+_(see files)_
+
 - Part 1
 	- Professional C++. Ch. 1. A Crash Course in C++ and the Standard Library 
 	- As this is a crash course, theres a lot to comprehend. Fortunately it is followed up later in the book etc.
@@ -91,7 +93,7 @@ This repo is intended as an aid for experienced C# programmers transitioning to 
 * Stroustrup, B. (2018). A Tour of C++ (2nd ed.). Pearson Education, Upper Saddle River, NJ.
 
 ## Curriculum
-##### _(minor edits might happen)_
+_(minor edits might happen)_
 
 - **Professional C++.** Ch. 1 (Gregoire 2021 pp. 3-86)
 - **A Tour of C++.** Ch. 1 (Stroustrup 2018 pp. 1-19)
