@@ -80,8 +80,6 @@ This repo is intended as an aid for experienced C# programmers transitioning to 
 - Part 8
 	- ...
 	
-
-- **Professional C++.** Ch. 1 (pp. 3-86)
 ## Litterature
 * Browning, J. B., & Sutherland, B. (2020). C++20 Recipes: A Problem-Solution Approach (2nd ed.). Apress, New York, NY.
 * Gregoire, M. (2021). Professional C++ (5th ed.). Wiley, Indiana, IN.
