@@ -47,6 +47,41 @@ This repo is intended as an aid for experienced C# programmers transitioning to 
 
 21. **Reference qualifiers** for types like `-'&'` and `-'&&'` are important in C++, especially in constructors/methods, and are reminiscent of the use of `ref` and `out` in C# - e.g., `Foo (const string& strName) {…}` and `Foo bar(const string& strname) {…}`.
 
+## Notes
+- Part 1
+  - Professional C++. Ch. 1. A Crash Course in C++ and the Standard Library 
+	- As this is a crash course, theres a lot to comprehend. Fortunately it is followed up later in the book etc.
+- Part 2
+	- A Tour of C++. Ch. 1. The Basics
+	- The C++ Programming Language. Ch. 1.2. The Basics
+	- A Tour of C++. Ch. 1. User Defined Types
+- Part 3
+	- Clean C++20. Ch. 2. Build a Safety Net
+	- Clean C++20. Ch. 3. Be Principled
+- Part 4
+	- Clean C++20. Ch. 4. 4. Basics of Clean C++
+- Part 5
+	- C++20 Recipes. Ch. 2. Modern C++
+	- Professional C++. Ch. 2. Working with Strings and String Views
+	- Professional C++. Ch. 3. Coding with Style
+	- Exploring C++20. Ch. 28. Documentation
+	- Professional C++. Ch. 4. Designing Professional C++ Programs
+- Part 6
+	- Exploring C++20. Ch. 12. Conditions and Logic
+- Part 7
+	- Exploring C++20. Ch. 17. Characters
+	- Exploring C++20. Ch. 19. Case-Folding
+	- Exploring C++20. Ch. 20. Writing Functions
+	- Exploring C++20. Ch. 21. Functional Arguments
+	- C++20 Recipes. Ch. 2. Modern C++
+	- Exploring C++20. Ch. 30. Custom Types
+	- Professional C++. Ch. 5. Design and Objects
+	- Professional C++. Ch. 6. Designing for reuse
+- Part 8
+	- ...
+	
+
+- **Professional C++.** Ch. 1 (pp. 3-86)
 ## Litterature
 * Browning, J. B., & Sutherland, B. (2020). C++20 Recipes: A Problem-Solution Approach (2nd ed.). Apress, New York, NY.
 * Gregoire, M. (2021). Professional C++ (5th ed.). Wiley, Indiana, IN.
@@ -59,91 +94,90 @@ This repo is intended as an aid for experienced C# programmers transitioning to 
 ## Curriculum
 ##### _(minor edits might happen)_
 
-- **Professional C++.** Ch. 1 (p. 3-86)
-- **A Tour of C++.** Ch. 1 (p. 1-19)
-- **The C++ Programming Language.** Ch. 1.2 (p. 37-58)
-- **A Tour of C++.** Ch. 2 (p. 21-28)
-- **Clean C++20.** Ch. 2-4 (p. 13-130)
-- **C++20 Recipes.** Ch. 2 (p. 25-40)
-- **Professional C++.** Ch. 2-3 (p. 87-167)
-- **Exploring C++20.** Ch. 28 (p. 191-196)
-- **Professional C++.** Ch. 4 (p. 87-167)
-- **Exploring C++20.** Ch. 17-21 (p. 109-142)
-- **C++20 Recipes.** Ch. 2 (p. 40-44)
-- **Exploring C++20.** Ch. 30 (p. 203-209)
-- **Professional C++.** Ch. 5-6; (p. 169-207)
-- **Professional C++.** Ch. 8 (p. 250-282)
-- **Exploring C++20.** Ch. 33-37 (p. 225-264)
-- **Professional C++.** Ch. 9 (p. 283-335)
-- **A Tour of C++.** Ch. 4 (p. 47-64)
-- **Exploring C++20.** Ch. 39-40 (p. 275-294)
-- **C++20 Recipes.** Ch. 2 (p. 55-80)
-- **Exploring C++20.** Ch. 41 (p. 295-304)
-- **A Tour of C++.** Ch. 3 (p. 29-46)
-- **Exploring C++20.** Ch. 42-43 (p. 305-321)
-- **Clean C++20.** Ch. 6 (p. 221-291)
-- **A Tour of C++.** Ch. 5 (p. 65-77)
-- **Professional C++.** Ch. 10 (p. 337-395)
-- **Exploring C++20.** Ch. 38 (p. 265-273)
-- **C++20 Recipes.** Ch. 6 (p. 189-213)
-- **Professional C++.** Ch. 11 (p. 397-419)
-- **The C++ Programming Language.** Ch. 1.3 (p. 59-85)
-- **Professional C++.** Ch. 12 (p. 419-464)
-- **A Tour of C++.** Ch. 6 (p. 78-92)
-- **Exploring C++20.** Ch. 51-55 (p. 391-430)
-- **C++20 Recipes.** Ch. 9 (p. 277-300)
-- **A Tour of C++.** Ch. 7 (p. 93-105)
-- **Exploring C++20.** Ch. 56 (p. 431-447)
-- **Professional C++.** Ch. 13 (p. 465-494)
-- **A Tour of C++.** Ch. 10 (p. 123-136)
-- **Exploring C++20.** Ch. 14 (p. 95-98)
-- **Exploring C++20.** Ch. 32 (p. 221-224)
-- **Exploring C++20.** Ch. 60-61 (p. 491-509)
-- **Professional C++.** Ch. 14 (p. 495-533)
-- **Exploring C++20.** Ch. 48 Exceptions (p. 357-372)
-- **Professional C++.** Ch. 15 (p. 536-572)
-- **Exploring C++20.** Ch. 49-50 (p. 373-387)
-- **Professional C++.** Ch. 16-18 (p. 535-698)
-- **Exploring C++20.** Ch. 47 (p. 351-356)
-- **A Tour of C++.** Ch. 8 (p. 107-110)
-- **A Tour of C++.** Ch. 11 (p. 137-148)
-- **C++20 Recipes.** Ch. 7 (p. 215-249)
-- **A Tour of C++.** Ch. 12 (p. 149-162)
-- **C++20 Recipes.** Ch. 8 (p. 251-276)
-- **The C++ Programming Language.** Ch. 1.4 (p. 87-110)
-- **Exploring C++20.** Ch. 45 (p. 327-340)
-- **Professional C++.** Ch. 19 (p. 699-723)
-- **Exploring C++20.** Ch. 44 (p. 323-326)
-- **C++20 Recipes.** Ch. 2 (p. 44-55; 71-80)
-- **Professional C++.** Ch. 20 (p. 725-761)
-- **Clean C++20.** Ch. 5 (p. 131-219)
-- **Clean C++20.** Ch. 7 (p. 293-334)
-- **C++20 Recipes.** Ch. 11 (p. 365-428)
-- **The C++ Programming Language.** Ch. 1.5 (p. 111-132)
-- **C++20 Recipes.** Ch. 12-13 (p. 429-546)
-- **Professional C++.** Ch. 21 (p. 763-791)
-- **C++20 Recipes.** Ch. 2 (p. 55-60)
-- **A Tour of C++.** Ch. 9 (p. 111-122)
-- **Exploring C++20.** Ch. 63-64 (p. 525-548)
-- **C++20 Recipes.** Ch. 2 (p. 60-71)
-- **Exploring C++20.** Ch. 65-70 (p. 549-618)
-- **Exploring C++20.** Ch. 73-74 (p. 643-655)
-- **Professional C++.** Ch. 22-23 (p. 793-819)
-- **Exploring C++20.** Ch. 46 (p. 341-350)
-- **Professional C++.** Ch. 24-25 (p. 821-876)
-- **Exploring C++20.** Ch. 8-11 (p. 49-76)
-- **Exploring C++20.** Ch. 16 (p. 105-108)
-- **Professional C++.** Ch. 26-28 (p. 877-971)
-- **Professional C++.** Ch. 28 (p. 972-992)
-- **Professional C++.** Ch. 7 (p. 211-247)
-- **C++20 Recipes.** Ch. 10 (p. 301-363)
-- **Exploring C++20.** Ch. 62 (p. 511-523)
-- **Professional C++.** Ch. 29-30 (p. 993-1020)
-- **Real-Time C++.** App. B.2 (p. 479-480)
-- **Professional C++.** Ch. 30 (p.1021-1044)
-- **Clean C++20.** Ch. 8 (p. 336-373)
-- **Professional C++.** Ch. 31-34 (p. 1055-1161)
-- **Real-Time C++.** Ch. 9 (p. 205-238)
-- **Real-Time C++.** Ch. 11 (p. 279-294)
-- **Real-Time C++.** Part III (p. 295-434)
-- **Real-Time C++.** App. C (p. 493-492)
+- **Professional C++.** Ch. 1 (Gregoire 2021 pp. 3-86)
+- **A Tour of C++.** Ch. 1 (Stroustrup 2018 pp. 1-19)
+- **The C++ Programming Language.** Ch. 1.2 (Stroustrup 2013 pp. 37-58)
+- **A Tour of C++.** Ch. 2 (Stroustrup 2018 pp. 21-28)
+- **Clean C++20.** Ch. 2-4 (Roth 2021 pp. 13-130)
+- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 25-40)
+- **Professional C++.** Ch. 2-3 (Gregoire 2021 pp. 87-167)
+- **Exploring C++20.** Ch. 28 (Lischner 2021 pp. 191-196)
+- **Professional C++.** Ch. 4 (Gregoire 2021 pp. 87-167)
+- **Exploring C++20.** Ch. 17-21 (Lischner 2021 pp. 109-142)
+- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 40-44)
+- **Exploring C++20.** Ch. 30 (Lischner 2021 pp. 203-209)
+- **Professional C++.** Ch. 5-6; (Gregoire 2021 pp. 169-207)
+- **Professional C++.** Ch. 8 (Gregoire 2021 pp. 250-282)
+- **Exploring C++20.** Ch. 33-37 (Lischner 2021 pp. 225-264)
+- **Professional C++.** Ch. 9 (Gregoire 2021 pp. 283-335)
+- **A Tour of C++.** Ch. 4 Stroustrup 2018 (Stroustruo 2018 pp. 47-64)
+- **Exploring C++20.** Ch. 39-40 (Lischner 2021 pp. 275-294)
+- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 55-80)
+- **Exploring C++20.** Ch. 41 (Lischner 2021 pp. 295-304)
+- **A Tour of C++.** Ch. 3 (Stroustrup 2018 pp. 29-46)
+- **Exploring C++20.** Ch. 42-43 (Lischner 2021 pp. 305-321)
+- **Clean C++20.** Ch. 6 (Roth 2021 pp. 221-291)
+- **A Tour of C++.** Ch. 5 (Stroustrup 2018 pp. 65-77)
+- **Professional C++.** Ch. 10 (Gregoire 2021 pp. 337-395)
+- **Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)
+- **C++20 Recipes.** Ch. 6 (Browning and Sutherland 2020 pp. 189-213)
+- **Professional C++.** Ch. 11 (Gregoire 2021 pp. 397-419)
+- **The C++ Programming Language.** Ch. 1.3 (Stroustrup 2013 pp. 59-85)
+- **Professional C++.** Ch. 12 (Gregoire 2021 pp. 419-464)
+- **A Tour of C++.** Ch. 6 (Stroustrup 2018 pp. 78-92)
+- **Exploring C++20.** Ch. 51-55 (Lischner 2021 pp. 391-430)
+- **C++20 Recipes.** Ch. 9 (Browning and Sutherland 2020 pp. 277-300)
+- **A Tour of C++.** Ch. 7 (Stroustrup 2018 pp. 93-105)
+- **Exploring C++20.** Ch. 56 (Lischner 2021 pp. 431-447)
+- **Professional C++.** Ch. 13 (Gregoire 2021 pp. 465-494)
+- **A Tour of C++.** Ch. 10 (Stroustrup 2018 pp. 123-136)
+- **Exploring C++20.** Ch. 14 (Lischner 2021 pp. 95-98)
+- **Exploring C++20.** Ch. 32 (Lischner 2021 pp. 221-224)
+- **Exploring C++20.** Ch. 60-61 (Lischner 2021 pp. 491-509)
+- **Professional C++.** Ch. 14 (Gregoire 2021 pp. 495-533)
+- **Exploring C++20.** Ch. 48 (Lischner 2021 pp. 357-372)
+- **Professional C++.** Ch. 15 (Gregoire 2021 pp. 536-572)
+- **Exploring C++20.** Ch. 49-50 (Lischner 2021 pp. 373-387)
+- **Professional C++.** Ch. 16-18 (Gregoire 2021 pp. 535-698)
+- **Exploring C++20.** Ch. 47 (Lischner 2021 pp. 351-356)
+- **A Tour of C++.** Ch. 8 (Stroustrup 2018 pp. 107-110)
+- **A Tour of C++.** Ch. 11 (Stroustrup 2018 pp. 137-148)
+- **C++20 Recipes.** Ch. 7 (Browning and Sutherland 2020 pp. 215-249)
+- **A Tour of C++.** Ch. 12 (Stroustrup 2018 pp. 149-162)
+- **C++20 Recipes.** Ch. 8 (Browning and Sutherland 2020 pp. 251-276)
+- **The C++ Programming Language.** Ch. 1.4 (Stroustrup 2013 pp. 87-110)
+- **Exploring C++20.** Ch. 45 (Lischner 2021 pp. 327-340)
+- **Professional C++.** Ch. 19 (Gregoire 2021 pp. 699-723)
+- **Exploring C++20.** Ch. 44 (Lischner 2021 pp. 323-326)
+- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 44-55; 71-80)
+- **Professional C++.** Ch. 20 (Gregoire 2021 pp. 725-761)
+- **Clean C++20.** Ch. 5 (Roth 2021 pp. 131-219)
+- **Clean C++20.** Ch. 7 (Roth 2021 pp. 293-334)
+- **C++20 Recipes.** Ch. 11 (Browning and Sutherland 2020 pp. 365-428)
+- **The C++ Programming Language.** Ch. 1.5 (Stroustrup 2013 pp. 111-132)
+- **C++20 Recipes.** Ch. 12-13 (Browning and Sutherland 2020 pp. 429-546)
+- **Professional C++.** Ch. 21 (Gregoire 2021 pp. 763-791)
+- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 55-60)
+- **A Tour of C++.** Ch. 9 (Stroustrup 2018 pp. 111-122)
+- **Exploring C++20.** Ch. 63-64 (Lischner 2021 pp. 525-548)
+- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 60-71)
+- **Exploring C++20.** Ch. 65-70 (Lischner 2021 pp. 549-618)
+- **Exploring C++20.** Ch. 73-74 (Lischner 2021 pp. 643-655)
+- **Professional C++.** Ch. 22-23 (Gregoire 2021 pp. 793-819)
+- **Exploring C++20.** Ch. 46 (Lischner 2021 pp. 341-350)
+- **Professional C++.** Ch. 24-25 (Gregoire 2021 pp. 821-876)
+- **Exploring C++20.** Ch. 8-11 (Lischner 2021 pp. 49-76)
+- **Exploring C++20.** Ch. 16 (Lischner 2021 pp. 105-108)
+- **Professional C++.** Ch. 26-28 (Gregoire 2021 pp. 877-992)
+- **Professional C++.** Ch. 7 (Gregoire 2021 pp. 211-247)
+- **C++20 Recipes.** Ch. 10 (Browning and Sutherland 2020 pp. 301-363)
+- **Exploring C++20.** Ch. 62 (Lischner 2021 pp. 511-523)
+- **Professional C++.** Ch. 29-30 (Gregoire 2021 pp. 993-1020)
+- **Real-Time C++.** Appendix B.2 (Kormanyos 2021 pp. 479-480)
+- **Professional C++.** Ch. 30 (Gregoire 2021 pp.1021-1044)
+- **Clean C++20.** Ch. 8 (Roth 2021 pp. 336-373)
+- **Professional C++.** Ch. 31-34 (Gregoire 2021 pp. 1055-1161)
+- **Real-Time C++.** Ch. 9 (Kormanyos 2021 pp. 205-238)
+- **Real-Time C++.** Ch. 11 (Kormanyos 2021 pp. 279-294)
+- **Real-Time C++.** Part III (Kormanyos 2021 pp. 295-434)
+- **Real-Time C++.** Appendix C (Kormanyos 2021 pp. 493-492)
