@@ -63,7 +63,7 @@ _(each part included as PDF-file)_
 - [Part 2](Notes/CS2CPP_notes_part_3.pdf)
 	- A Tour of C++. Ch. 1. The Basics
 	- The C++ Programming Language. Ch. 1.2. The Basics
-	- A Tour of C++. Ch. 1. User Defined Types
+	- A Tour of C++. Ch. 2. User Defined Types
 - [Part 3](Notes/CS2CPP_notes_part_2.pdf)
 	- Clean C++20. Ch. 2. Build a Safety Net
 	- Clean C++20. Ch. 3. Be Principled
