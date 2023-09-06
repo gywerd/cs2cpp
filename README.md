@@ -57,26 +57,32 @@ Experienced C# programmers shifting to C++ can efficiently harness their existin
 ## Note Index
 _(each part included as PDF-file)_
 
-- Part 1
+- [Part 1](Notes/CS2CPP_notes_part_1.pdf)
 	- Professional C++. Ch. 1. A Crash Course in C++ and the Standard Library 
 	- As this is a crash course, theres a lot to comprehend. Fortunately it is followed up later in the book etc.
+- [Part 2](Notes/CS2CPP_notes_part_3.pdf)
 - Part 2
 	- A Tour of C++. Ch. 1. The Basics
 	- The C++ Programming Language. Ch. 1.2. The Basics
 	- A Tour of C++. Ch. 1. User Defined Types
+- [Part 3](Notes/CS2CPP_notes_part_2.pdf)
 - Part 3
 	- Clean C++20. Ch. 2. Build a Safety Net
 	- Clean C++20. Ch. 3. Be Principled
+- [Part 4](Notes/CS2CPP_notes_part_4.pdf)
 - Part 4
 	- Clean C++20. Ch. 4. Basics of Clean C++
+- [Part 5](Notes/CS2CPP_notes_part_5.pdf)
 - Part 5
 	- C++20 Recipes. Ch. 2. Initialization and Auto
 	- Professional C++. Ch. 2. Working with Strings and String Views
 	- Professional C++. Ch. 3. Coding with Style
 	- Exploring C++20. Ch. 28. Documentation
 	- Professional C++. Ch. 4. Designing Professional C++ Programs
+- [Part 6](Notes/CS2CPP_notes_part_6.pdf)
 - Part 6
 	- Exploring C++20. Ch. 12. Conditions and Logic
+- [Part 7](Notes/CS2CPP_notes_part_7.pdf)
 - Part 7
 	- _Exploring C++20. Ch. 17. Characters_
 	- _Exploring C++20. Ch. 19. Case-Folding_
@@ -86,6 +92,7 @@ _(each part included as PDF-file)_
 	- _Exploring C++20. Ch. 30. Custom Types_
 	- Professional C++. Ch. 5. Design and Objects
 	- Professional C++. Ch. 6. Designing for reuse
+- [Part 8](Notes/CS2CPP_notes_part_8.pdf)
 - Part 8
 	- Professional C++. Ch. 8. Gaining Proficiency with Classes a nd Objects
 	- _Exploring C++20. Ch. 33. Assignment and Initialization_
