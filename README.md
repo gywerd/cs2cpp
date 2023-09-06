@@ -79,7 +79,7 @@ _(each part included as PDF-file)_
 - Part 4
 	- Clean C++20. Ch. 4. 4. Basics of Clean C++
 - Part 5
-	- C++20 Recipes. Ch. 2. Modern C++
+	- C++20 Recipes. Ch. 2. Initialization and Auto
 	- Professional C++. Ch. 2. Working with Strings and String Views
 	- Professional C++. Ch. 3. Coding with Style
 	- Exploring C++20. Ch. 28. Documentation
@@ -91,7 +91,7 @@ _(each part included as PDF-file)_
 	- Exploring C++20. Ch. 19. Case-Folding
 	- Exploring C++20. Ch. 20. Writing Functions
 	- Exploring C++20. Ch. 21. Functional Arguments
-	- C++20 Recipes. Ch. 2. Modern C++
+	- C++20 Recipes. Ch. 2. Compile Time Constants
 	- Exploring C++20. Ch. 30. Custom Types
 	- Professional C++. Ch. 5. Design and Objects
 	- Professional C++. Ch. 6. Designing for reuse
