@@ -3,7 +3,8 @@
 
 ## Index
 - Introduction
-	- Highlights
+	- Major issues
+	- Didactic considerations
 - Note Index
 	- Part 1
 	- Part 2
@@ -21,48 +22,31 @@
 
 This repo is intended as an aid for experienced C# programmers transitioning to C++. It is comprehensive, but not conclusive for everyone, as it follows my learning path and the curriculum I've developed for myself. There might be overlap between content of books resulting in minor adjustments of the curriculum, while I learn.
 
-### Highlights
+### Major issues
 1. The transition from C# to C++ involves understanding the differences and similarities between the two languages, as well as adapting to C++'s manual memory management and more flexible nature.
-
 2. Avoid Pointers in C++ where applicable. Pointers were a fundamental part of C++ and have a broader range of applications than just hardware control. They are used for dynamic memory management, data structures, function pointers, efficiency, and more.
-
 3. Modern C++ practices emphasize safer and more abstract methods of memory management, including the use of automatic variables, smart pointers, the standard library, and references.
-
 4. You can develop Business Applications in C++ without focusing heavily on pointers, especially by using modern techniques and leveraging abstract constructs and smart pointers.
-
 5. **Learning process.** Mastering C++ requires patience, practice, and time. Use resources like online tutorials, books, and courses to build your understanding. Practical exercise and gradually increasing complexity are the keys to success.
-
 6. **Projects and community.** Build small projects and participate in the programming community to share your progress and receive support from other developers.
-
 7. **Useful namespaces.** Using `<string>`, `<vector>`, `<map>`, `<list>`, `<ctime>`, `<iostream>`, `<cstddef>`, and `using namespace std` provides access to functions and classes in the standard library – and it's easier to work with them similarly to using System, etc., in C#.
-
 8. `<string>` is necessary for accessing the `std::string` type and string manipulation.
-
 9. `<iostream>` is similar to System.IO and is necessary for accessing `std::cin` and `std::cout` for keyboard input and terminal output – will be included in std from C++23.
-
 10. `<ctime>` provides access to functions like `std::time` and `std::localtime`, as well as struct `std::tm` and type `std::time_t` for working with dates and times.
-
 11. `<fstream>` contains classes like `std::ifstream` and `std::ofstream`, which correspond to `File`, `StreamReader`, and `StreamWriter`, etc., in `System.IO`.
-
 12. `<vector>`, `<map>`, `<list>`, etc., are used to work with vectors, maps, and lists in a similar way as `List<T>`, `Dictionary<TKey, TValue>`, etc., in `System.Collections.Generic`.
-
 13. There isn't a direct equivalent of `System.Linq` in C++, but `<algorithm>` provides access to a range of algorithms for working with collections.
-
 14. The `<cstddef>` header contains definitions of types and functions used for pointer arithmetic, including the specific `byte` type as a semantic alternative to `unsigned char`.
-
 15. Using `this->` instead of `this` allows you to specifically refer to member variables in the class, which can help you avoid potential conflicts.
-
 16. **Elimination of new.** Modern C++ practices encourage the use of smart pointers and automatic memory management to reduce the risk of memory leaks.
-
 17. **Challenges with headers.** Use C++ modules instead of headers.
-
 18. **Challenges with properties.** Learn how C++ handles properties compared to C#.
-
 19. **No extension methods.** Use `string ToString(int i) { … }` instead of `string ToString(this int i) { … }`. They can still be placed in an ext file for access from multiple classes. Simply use `ext::ToString(i)` instead of `i.ToString`.
-
 20. **Property idiom:** C++ doesn't have built-in properties like C#, but the property idiom is used to create similar functionality using getter and setter methods. In dynamic libraries (libs) C++/CLI `__declspec(property(get = getBar, put = setBar)) string Bar` can be used.
-
 21. **Reference qualifiers** for types like `-'&'` and `-'&&'` are important in C++, especially in constructors/methods, and are reminiscent of the use of `ref` and `out` in C# - e.g., `Foo (const string& strName) {…}` and `Foo bar(const string& strname) {…}`.
+
+### Didactic considerations
+Experienced C# programmers shifting to C++ can efficiently harness their existing repository. The ‘Literature List’ cover basic to very advanced topics of C++20. The ‘Curriculum’ provides an optimal order for reading the content of the books, thus facilitating a structured and efficient learning path. The ‘Notes’ section is provided for overview, insights and inspiration.
 
 ## Note Index
 _(each part included as PDF-file)_
