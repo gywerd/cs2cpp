@@ -78,21 +78,21 @@ _(each part included as PDF-file)_
 - Part 6
 	- Exploring C++20. Ch. 12. Conditions and Logic
 - Part 7
-	- Exploring C++20. Ch. 17. Characters
-	- Exploring C++20. Ch. 19. Case-Folding
-	- Exploring C++20. Ch. 20. Writing Functions
-	- Exploring C++20. Ch. 21. Functional Arguments
+	- _Exploring C++20. Ch. 17. Characters_
+	- _Exploring C++20. Ch. 19. Case-Folding_
+	- _Exploring C++20. Ch. 20. Writing Functions_
+	- _Exploring C++20. Ch. 21. Functional Arguments_
 	- C++20 Recipes. Ch. 2. Compile Time Constants
-	- Exploring C++20. Ch. 30. Custom Types
+	- _Exploring C++20. Ch. 30. Custom Types_
 	- Professional C++. Ch. 5. Design and Objects
 	- Professional C++. Ch. 6. Designing for reuse
 - Part 8
 	- Professional C++. Ch. 8. Gaining Proficiency with Classes a nd Objects
-	- Exploring C++20. Ch. 33. Assignment and Initialization
-	- Exploring C++20. Ch. 34. Writing Classes
-	- Exploring C++20. Ch. 35. More About Member functions
+	- _Exploring C++20. Ch. 33. Assignment and Initialization_
+	- _Exploring C++20. Ch. 34. Writing Classes_
+	- _Exploring C++20. Ch. 35. More About Member functions_
 	- Exploring C++20. Ch. 36. Access Levels
-	- Exploring C++20. Ch. 37. Understanding Object-Oriented Programming
+	- _Exploring C++20. Ch. 37. Understanding Object-Oriented Programming_
 - Part 9
 	- ...
 	
@@ -107,6 +107,7 @@ _(each part included as PDF-file)_
 
 ## Study Plan
 _(minor edits might happen)_
+_Optional_ reading marked with _italics_ is `nice for reference` and may be skimmed or outright skipped at your own discretion.
 
 - **Professional C++.** Ch. 1 (Gregoire 2021 pp. 3-86)
 - **A Tour of C++.** Ch. 1 (Stroustrup 2018 pp. 1-19)
@@ -117,12 +118,14 @@ _(minor edits might happen)_
 - **Professional C++.** Ch. 2-3 (Gregoire 2021 pp. 87-167)
 - **Exploring C++20.** Ch. 28 (Lischner 2021 pp. 191-196)
 - **Professional C++.** Ch. 4 (Gregoire 2021 pp. 87-167)
-- **Exploring C++20.** Ch. 17-21 (Lischner 2021 pp. 109-142)
+- _**Exploring C++20.** Ch. 17-21 (Lischner 2021 pp. 109-142)_
 - **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 40-44)
-- **Exploring C++20.** Ch. 30 (Lischner 2021 pp. 203-209)
+- _**Exploring C++20.** Ch. 30 (Lischner 2021 pp. 203-209)_
 - **Professional C++.** Ch. 5-6; (Gregoire 2021 pp. 169-207)
 - **Professional C++.** Ch. 8 (Gregoire 2021 pp. 250-282)
-- **Exploring C++20.** Ch. 33-37 (Lischner 2021 pp. 225-264)
+- _**Exploring C++20.** Ch. 33-35 (Lischner 2021 pp. 225-247)_
+- **Exploring C++20.** Ch. 36 (Lischner 2021 pp. 249-257)
+- _**Exploring C++20.** Ch. 37 (Lischner 2021 pp. 259-264)_
 - **Professional C++.** Ch. 9 (Gregoire 2021 pp. 283-335)
 - **A Tour of C++.** Ch. 4 Stroustrup 2018 (Stroustruo 2018 pp. 47-64)
 - **Exploring C++20.** Ch. 39-40 (Lischner 2021 pp. 275-294)
