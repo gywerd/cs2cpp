@@ -96,6 +96,13 @@ _(each part included as PDF-file)_
 	- Professional C++. Ch. 5. Design and Objects
 	- Professional C++. Ch. 6. Designing for reuse
 - Part 8
+	- Professional C++. Ch. 8. Gaining Proficiency with Classes a nd Objects
+	- Exploring C++20. Ch. 33. Assignment and Initialization
+	- Exploring C++20. Ch. 34. Writing Classes
+	- Exploring C++20. Ch. 35. More About Member functions
+	- Exploring C++20. Ch. 36. Access Levels
+	- Exploring C++20. Ch. 37. Understanding Object-Oriented Programming
+- Part 9
 	- ...
 	
 ## Litterature
