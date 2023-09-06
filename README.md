@@ -128,12 +128,13 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 - **Exploring C++20.** Ch. 36 (Lischner 2021 pp. 249-257)
 - _**Exploring C++20.** Ch. 37 (Lischner 2021 pp. 259-264)_
 - **Professional C++.** Ch. 9 (Gregoire 2021 pp. 283-335)
-- **A Tour of C++.** Ch. 4 Stroustrup 2018 (Stroustrup 2018 pp. 47-64)
+- _**A Tour of C++.** Ch. 4 Stroustrup 2018 (Stroustrup 2018 pp. 47-64)_
 - **Exploring C++20.** Ch. 39-40 (Lischner 2021 pp. 275-294)
 - **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 55-80)
 - **Exploring C++20.** Ch. 41 (Lischner 2021 pp. 295-304)
 - **A Tour of C++.** Ch. 3 (Stroustrup 2018 pp. 29-46)
-- **Exploring C++20.** Ch. 42-43 (Lischner 2021 pp. 305-321)
+- **Exploring C++20.** Ch. 42 (Lischner 2021 pp. 305-314)
+- _**Exploring C++20.** Ch. 43 (Lischner 2021 pp. 315-321)_
 - **Clean C++20.** Ch. 6 (Roth 2021 pp. 221-291)
 - **A Tour of C++.** Ch. 5 (Stroustrup 2018 pp. 65-77)
 - **Professional C++.** Ch. 10 (Gregoire 2021 pp. 337-395)
