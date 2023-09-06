@@ -130,7 +130,7 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 - **Professional C++.** Ch. 9 (Gregoire 2021 pp. 283-335)
 - _**A Tour of C++.** Ch. 4 Stroustrup 2018 (Stroustrup 2018 pp. 47-64)_
 - **Exploring C++20.** Ch. 39-40 (Lischner 2021 pp. 275-294)
-- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 55-80)
+- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 55-60)
 - **Exploring C++20.** Ch. 41 (Lischner 2021 pp. 295-304)
 - **A Tour of C++.** Ch. 3 (Stroustrup 2018 pp. 29-46)
 - **Exploring C++20.** Ch. 42 (Lischner 2021 pp. 305-314)
