@@ -3,6 +3,7 @@
 
 ## Index
 - Introduction
+	- How can you contribute
 	- Major issues
 	- Didactic considerations
 - Note Index
@@ -16,11 +17,16 @@
 	- Part 8
 	- Part 9
 - Litterature
-- Curriculum
+- Study Plan
 
 ## Introduction
 
-This repo is intended as an aid for experienced C# programmers transitioning to C++. It is comprehensive, but not conclusive for everyone, as it follows my learning path and the curriculum I've developed for myself. There might be overlap between content of books resulting in minor adjustments of the curriculum, while I learn.
+This repo is intended as an aid for experienced C# programmers transitioning to C++. It is comprehensive, but not conclusive for everyone, as it follows my learning path and the curriculum I've developed for myself. There might be overlap between content of books resulting in minor adjustments of the curriculum over the course of time.
+
+### How can you contribute
+Suggestions can be reported as issues e.g. 
+- other or better litterature
+- crificiation to notes
 
 ### Major issues
 1. The transition from C# to C++ involves understanding the differences and similarities between the two languages, as well as adapting to C++'s manual memory management and more flexible nature.
@@ -46,7 +52,7 @@ This repo is intended as an aid for experienced C# programmers transitioning to 
 21. **Reference qualifiers** for types like `-'&'` and `-'&&'` are important in C++, especially in constructors/methods, and are reminiscent of the use of `ref` and `out` in C# - e.g., `Foo (const string& strName) {…}` and `Foo bar(const string& strname) {…}`.
 
 ### Didactic considerations
-Experienced C# programmers shifting to C++ can efficiently harness their existing repository. The ‘Literature List’ cover basic to very advanced topics of C++20. The ‘Curriculum’ provides an optimal order for reading the content of the books, thus facilitating a structured and efficient learning path. The ‘Notes’ section is provided for overview, insights and inspiration.
+Experienced C# programmers shifting to C++ can efficiently harness their existing repository. The `Literature` list cover basic to very advanced topics of C++20. The `Study Plan` provides an optimal order for reading the content of the books, thus facilitating a structured and efficient learning path. The `Notes` section is provided for overview, insights and inspiration.
 
 ## Note Index
 _(each part included as PDF-file)_
@@ -62,7 +68,7 @@ _(each part included as PDF-file)_
 	- Clean C++20. Ch. 2. Build a Safety Net
 	- Clean C++20. Ch. 3. Be Principled
 - Part 4
-	- Clean C++20. Ch. 4. 4. Basics of Clean C++
+	- Clean C++20. Ch. 4. Basics of Clean C++
 - Part 5
 	- C++20 Recipes. Ch. 2. Initialization and Auto
 	- Professional C++. Ch. 2. Working with Strings and String Views
@@ -99,7 +105,7 @@ _(each part included as PDF-file)_
 * Stroustrup, B. (2013). The C++ Programming (4th ed.). Pearson Education, Upper Saddle River, NJ.
 * Stroustrup, B. (2018). A Tour of C++ (2nd ed.). Pearson Education, Upper Saddle River, NJ.
 
-## Curriculum
+## Study Plan
 _(minor edits might happen)_
 
 - **Professional C++.** Ch. 1 (Gregoire 2021 pp. 3-86)
