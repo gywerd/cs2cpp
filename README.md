@@ -2,11 +2,11 @@
 # From C# to C++
 
 ## Index
-- Introduction
-	- How can you contribute
-	- Major issues
-	- Didactic considerations
-- Note Index
+- [Introduction](#introduction)
+	- [How can you contribute](#how-can-you-contribute)
+	- [Major issues](#major-issues)
+	- [Didactic considerations](#didactic-considerations)
+- [Note Index](#note-index)
 	- Part 1
 	- Part 2
 	- Part 3
@@ -16,8 +16,8 @@
 	- Part 7
 	- Part 8
 	- Part 9
-- Litterature
-- Study Plan
+- [Litterature](#litterature)
+- [Study Plan](#study-plan)
 
 ## Introduction
 
@@ -52,7 +52,7 @@ Suggestions can be reported as issues e.g.
 21. **Reference qualifiers** for types like `-'&'` and `-'&&'` are important in C++, especially in constructors/methods, and are reminiscent of the use of `ref` and `out` in C# - e.g., `Foo (const string& strName) {…}` and `Foo bar(const string& strname) {…}`.
 
 ### Didactic considerations
-Experienced C# programmers shifting to C++ can efficiently harness their existing repository. The `Literature` list cover basic to very advanced topics of C++20. The `Study Plan` provides an optimal order for reading the content of the books, thus facilitating a structured and efficient learning path. The `Notes` section is provided for overview, insights and inspiration.
+Experienced C# programmers shifting to C++ can efficiently harness their existing repository. The [`Litterature`](#litterature) list cover basic to very advanced topics of C++20. The `Study Plan`[`Study Plan`](#study-plan) provides an optimal order for reading the content of the books, thus facilitating a structured and efficient learning path. The [`Note Index`](#note-index)section is provided for overview, insights and inspiration.
 
 ## Note Index
 _(each part included as PDF-file)_
