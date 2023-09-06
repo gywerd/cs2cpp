@@ -13,6 +13,7 @@
 	- Part 6
 	- Part 7
 	- Part 8
+	- Part 9
 - Litterature
 - Curriculum
 
