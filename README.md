@@ -107,6 +107,7 @@ _(each part included as PDF-file)_
 
 ## Study Plan
 _(minor edits might happen)_
+
 _Optional_ reading marked with _italics_ is `nice for reference` and may be skimmed or outright skipped at your own discretion.
 
 - **Professional C++.** Ch. 1 (Gregoire 2021 pp. 3-86)
