@@ -9,9 +9,11 @@
 - [Note Index](#note-index)
 - [Litterature](#litterature)
 - [Study Plan](#study-plan)
-	- [The Basics of C++20](#the-basics-of-c++20)
-	- [Advanced C++](#advanced-c++)
-	- [Professional C++](#professional-c++)
+	- [The Basics](#the-basics)
+	- [Intermediate](#intermediate)
+	- [Advanced](#advanced)
+	- [Professional](#professional)
+	- [Expert](#expert)
 
 ## Introduction
 
@@ -119,13 +121,15 @@ _(minor edits might happen)_
 
 _Optional_ reading marked with _italics_ is `nice for reference` and may be skimmed or outright skipped at your own discretion.
 
-### The Basics of C++20
+### The Basics
 - **Professional C++.** Ch. 1 (Gregoire 2021 pp. 3-86)
 	- **A Tour of C++.** Ch. 1 (Stroustrup 2018 pp. 1-19)
 	- **The C++ Programming Language.** Ch. 1.2 (Stroustrup 2013 pp. 37-58)
 	- **A Tour of C++.** Ch. 2 (Stroustrup 2018 pp. 21-28)
 	- **Clean C++20.** Ch. 2-4 (Roth 2021 pp. 13-130)
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 25-40)
+	
+### Intermediate
 - **Professional C++.** Ch. 2-3 (Gregoire 2021 pp. 87-167)
 	- **Exploring C++20.** Ch. 28 (Lischner 2021 pp. 191-196)
 - **Professional C++.** Ch. 4 (Gregoire 2021 pp. 87-167)
@@ -153,7 +157,7 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 
 At this point you should be able to write useful C++ programs and libraries. It is time to practice e.g. by converting your existing simpler code from C# to C++.
 
-### Advanced C++
+### Advanced
 
 - **Professional C++.** Ch. 11 (Gregoire 2021 pp. 397-419)
 	- **The C++ Programming Language.** Ch. 1.3 (Stroustrup 2013 pp. 59-85)
@@ -203,6 +207,8 @@ At this point you should be able to write useful C++ programs and libraries. It 
 	- **Exploring C++20.** Ch. 8-11 (Lischner 2021 pp. 49-76)
 	- **Exploring C++20.** Ch. 16 (Lischner 2021 pp. 105-108)
 - **Professional C++.** Ch. 26-28 (Gregoire 2021 pp. 877-992)
+
+### Professional
 - **Professional C++.** Ch. 7 (Gregoire 2021 pp. 211-247)
 	- **C++20 Recipes.** Ch. 10 (Browning and Sutherland 2020 pp. 301-363)
 	- **Exploring C++20.** Ch. 62 (Lischner 2021 pp. 511-523)
@@ -211,7 +217,7 @@ At this point you should be able to write useful C++ programs and libraries. It 
 - **Professional C++.** Ch. 30 (Gregoire 2021 pp.1021-1044)
 	- **Clean C++20.** Ch. 8 (Roth 2021 pp. 336-373)
 
-### Professional C++
+### Expert
 - **Professional C++.** Ch. 31-34 (Gregoire 2021 pp. 1055-1161)
 - **Real-Time C++.** Ch. 9 (Kormanyos 2021 pp. 205-238)
 - **Real-Time C++.** Ch. 11 (Kormanyos 2021 pp. 279-294)
