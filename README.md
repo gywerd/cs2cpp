@@ -53,7 +53,7 @@ Experienced C# programmers shifting to C++ can efficiently harness their existin
 ## Note Index
 _(each part included as PDF-file)_
 
-- The basics
+- The Basics
 	- [Part 1](Notes/CS2CPP_notes_part_1.pdf)
 		- Professional C++. Ch. 1. A Crash Course in C++ and the Standard Library 
 		- As this is a crash course, theres a lot to comprehend. Fortunately it is followed up later in the book etc.
