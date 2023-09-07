@@ -155,7 +155,7 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- _**Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)_
 	- **C++20 Recipes.** Ch. 6 (Browning and Sutherland 2020 pp. 189-213)
 
-At this point you should be able to write useful C++ programs and libraries. It is time to practice e.g. by converting your existing simpler code from C# to C++.
+At this point, you should be able to write useful C++ programs and libraries. It is time to practice e.g. by converting your existing simpler code from C# to C++.
 
 ### Advanced
 
@@ -216,6 +216,8 @@ At this point you should be able to write useful C++ programs and libraries. It 
 	- **Real-Time C++.** Appendix B.2 (Kormanyos 2021 pp. 479-480)
 - **Professional C++.** Ch. 30 (Gregoire 2021 pp.1021-1044)
 	- **Clean C++20.** Ch. 8 (Roth 2021 pp. 336-373)
+	
+At this point, you should be able to make at least what you can do in C#.
 
 ### Expert
 - **Professional C++.** Ch. 31-34 (Gregoire 2021 pp. 1055-1161)
@@ -224,6 +226,3 @@ At this point you should be able to write useful C++ programs and libraries. It 
 - **Real-Time C++.** Part III (Kormanyos 2021 pp. 295-434)
 - **Real-Time C++.** Appendix C (Kormanyos 2021 pp. 493-492)
 - **C++20 Recipes.** Ch. 14. (Browning and Sutherland 2020 pp. 547-619)
-
-
-
