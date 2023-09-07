@@ -16,8 +16,14 @@
 	- Part 7
 	- Part 8
 	- Part 9
+	- Part 10
+	- Part 11
+	- Part 12
 - [Litterature](#litterature)
 - [Study Plan](#study-plan)
+	- [The Basics of C++20](#the-basics-of-c++20)
+	- [Advanced C++](#advanced-c++)
+	- [Professional C++](#professional-c++)
 
 ## Introduction
 
@@ -104,7 +110,11 @@ _(each part included as PDF-file)_
 	- Exploring C++20. Ch. 42. Modules
 	- _Exploring C++20. Ch. 43. Old-Fashioned "Modules"_
 	- Clean C++20. Ch. 6. Modularuty
-- Part 11
+- [Part 11](Notes/CS2CPP_notes_part_11.pdf)
+	- Professional C++. Ch. 10. Discovering Inheritance Techniques
+	- _Exploring C++20. Ch. 38. Inheritance_
+	- C++20 Recipes. Ch. 6. Inheritance
+- Part 12
 	- ...
 	
 ## Litterature
@@ -121,6 +131,7 @@ _(minor edits might happen)_
 
 _Optional_ reading marked with _italics_ is `nice for reference` and may be skimmed or outright skipped at your own discretion.
 
+### The Basics of C++20
 - **Professional C++.** Ch. 1 (Gregoire 2021 pp. 3-86)
 	- **A Tour of C++.** Ch. 1 (Stroustrup 2018 pp. 1-19)
 	- **The C++ Programming Language.** Ch. 1.2 (Stroustrup 2013 pp. 37-58)
@@ -149,8 +160,13 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- **Clean C++20.** Ch. 6 (Roth 2021 pp. 221-291)
 	- _**Exploring C++20.** Ch. 43 (Lischner 2021 pp. 315-321)_
 - **Professional C++.** Ch. 10 (Gregoire 2021 pp. 337-395)
-	- **Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)
+	- _**Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)_
 	- **C++20 Recipes.** Ch. 6 (Browning and Sutherland 2020 pp. 189-213)
+
+At this point you should be able to write useful C++ programs and libraries. It is time to practice e.g. by converting your existing simpler code from C# to C++.
+
+### Advanced C++
+
 - **Professional C++.** Ch. 11 (Gregoire 2021 pp. 397-419)
 	- **The C++ Programming Language.** Ch. 1.3 (Stroustrup 2013 pp. 59-85)
 - **Professional C++.** Ch. 12 (Gregoire 2021 pp. 419-464)
@@ -206,8 +222,14 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- **Real-Time C++.** Appendix B.2 (Kormanyos 2021 pp. 479-480)
 - **Professional C++.** Ch. 30 (Gregoire 2021 pp.1021-1044)
 	- **Clean C++20.** Ch. 8 (Roth 2021 pp. 336-373)
+
+### Professional C++
 - **Professional C++.** Ch. 31-34 (Gregoire 2021 pp. 1055-1161)
 - **Real-Time C++.** Ch. 9 (Kormanyos 2021 pp. 205-238)
 - **Real-Time C++.** Ch. 11 (Kormanyos 2021 pp. 279-294)
 - **Real-Time C++.** Part III (Kormanyos 2021 pp. 295-434)
 - **Real-Time C++.** Appendix C (Kormanyos 2021 pp. 493-492)
+- **C++20 Recipes.** Ch. 14. (Browning and Sutherland 2020 pp. 547-619)
+
+
+
