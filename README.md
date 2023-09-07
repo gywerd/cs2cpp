@@ -93,7 +93,12 @@ _(each part included as PDF-file)_
 	- _Exploring C++20. Ch. 35. More About Member functions_
 	- Exploring C++20. Ch. 36. Access Levels
 	- _Exploring C++20. Ch. 37. Understanding Object-Oriented Programming_
-- Part 9
+- [Part 9](Notes/CS2CPP_notes_part_9.pdf)
+	- Professional C++. Ch. 9. Mastering Classes a nd Objects
+	- Exploring C++20. Ch. 39. Virtual functions
+	- _Exploring C++20. Ch. 40. Classes and Types_
+	- Exploring C++20. Ch. 41. Declarations and Definitions
+- Part 10
 	- ...
 	
 ## Litterature
@@ -129,8 +134,8 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- _**Exploring C++20.** Ch. 37 (Lischner 2021 pp. 259-264)_
 - **Professional C++.** Ch. 9 (Gregoire 2021 pp. 283-335)
 	- _**A Tour of C++.** Ch. 4 Stroustrup 2018 (Stroustrup 2018 pp. 47-64)_
-	- **Exploring C++20.** Ch. 39-40 (Lischner 2021 pp. 275-294)
-	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 55-60)
+	- **Exploring C++20.** Ch. 39 (Lischner 2021 pp. 275-283)
+	- _**Exploring C++20.** Ch. 40 (Lischner 2021 pp. 285-294)_
 	- **Exploring C++20.** Ch. 41 (Lischner 2021 pp. 295-304)
 	- **A Tour of C++.** Ch. 3 (Stroustrup 2018 pp. 29-46)
 	- **Exploring C++20.** Ch. 42 (Lischner 2021 pp. 305-314)
