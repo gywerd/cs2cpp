@@ -7,13 +7,13 @@
 	- [Major issues](#major-issues)
 	- [Didactic considerations](#didactic-considerations)
 - [Note Index](#note-index)
-- [Litterature](#litterature)
 - [Study Plan](#study-plan)
 	- [The Basics](#the-basics)
 	- [Intermediate](#intermediate)
 	- [Advanced](#advanced)
 	- [Professional](#professional)
 	- [Expert](#expert)
+- [Litterature](#litterature)
 
 ## Introduction
 
@@ -112,15 +112,6 @@ _(each part included as PDF-file)_
 - Professional
 - Expert
 	
-## Litterature
-* Browning, J. B., & Sutherland, B. (2020). C++20 Recipes: A Problem-Solution Approach (2nd ed.). Apress, New York, NY.
-* Gregoire, M. (2021). Professional C++ (5th ed.). Wiley, Indiana, IN.
-* Kormanyos, C. (2021). Real Time C++: Efficient Object-Oriented and Template Microcontroller Programming (4th ed.). Springer-Verlag, Berlin, DE.
-* Lischner, R. (2020). Exploring C++20: The Programmer's Introduction to C++ (3rd ed.). Apress, New York, NY.
-* Roth, S. (2021). Clean C++20: Sustainable Software Development Patterns and Best Practices (2nd ed.). Apress, New York, NY.
-* Stroustrup, B. (2013). The C++ Programming (4th ed.). Pearson Education, Upper Saddle River, NJ.
-* Stroustrup, B. (2018). A Tour of C++ (2nd ed.). Pearson Education, Upper Saddle River, NJ.
-
 ## Study Plan
 _(minor edits might happen)_
 
@@ -231,3 +222,13 @@ At this point, you should be able to make at least what you can do in C#.
 - **Real-Time C++.** Part III (Kormanyos 2021 pp. 295-434)
 - **Real-Time C++.** Appendix C (Kormanyos 2021 pp. 493-492)
 - **C++20 Recipes.** Ch. 14. (Browning and Sutherland 2020 pp. 547-619)
+
+## Litterature
+* Browning, J. B., & Sutherland, B. (2020). C++20 Recipes: A Problem-Solution Approach (2nd ed.). Apress, New York, NY.
+* Gregoire, M. (2021). Professional C++ (5th ed.). Wiley, Indiana, IN.
+* Kormanyos, C. (2021). Real Time C++: Efficient Object-Oriented and Template Microcontroller Programming (4th ed.). Springer-Verlag, Berlin, DE.
+* Lischner, R. (2020). Exploring C++20: The Programmer's Introduction to C++ (3rd ed.). Apress, New York, NY.
+* Roth, S. (2021). Clean C++20: Sustainable Software Development Patterns and Best Practices (2nd ed.). Apress, New York, NY.
+* Stroustrup, B. (2013). The C++ Programming (4th ed.). Pearson Education, Upper Saddle River, NJ.
+* Stroustrup, B. (2018). A Tour of C++ (2nd ed.). Pearson Education, Upper Saddle River, NJ.
+
