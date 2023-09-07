@@ -6,13 +6,13 @@
 	- [How can you contribute](#how-can-you-contribute)
 	- [Major issues](#major-issues)
 	- [Didactic considerations](#didactic-considerations)
-- [Note Index](#note-index)
 - [Study Plan](#study-plan)
 	- [The Basics](#the-basics)
 	- [Intermediate](#intermediate)
 	- [Advanced](#advanced)
 	- [Professional](#professional)
 	- [Expert](#expert)
+- [Note Index](#note-index)
 - [Litterature](#litterature)
 
 ## Introduction
@@ -50,68 +50,6 @@ Suggestions can be reported as issues e.g.
 ### Didactic considerations
 Experienced C# programmers shifting to C++ can efficiently harness their existing repository. The [`Litterature`](#litterature) list cover basic to very advanced topics of C++20. The `Study Plan`[`Study Plan`](#study-plan) provides an optimal order for reading the content of the books, thus facilitating a structured and efficient learning path. The [`Note Index`](#note-index)section is provided for overview, insights and inspiration.
 
-## Note Index
-_(each part included as PDF-file)_
-
-- The Basics
-	- [Part 1](Notes/CS2CPP_notes_part_1.pdf)
-		- Professional C++. Ch. 1. A Crash Course in C++ and the Standard Library 
-		- As this is a crash course, theres a lot to comprehend. Fortunately it is followed up later in the book etc.
-	- [Part 2](Notes/CS2CPP_notes_part_3.pdf)
-		- A Tour of C++. Ch. 1. The Basics
-		- The C++ Programming Language. Ch. 1.2. The Basics
-		- A Tour of C++. Ch. 2. User Defined Types
-	- [Part 3](Notes/CS2CPP_notes_part_2.pdf)
-		- Clean C++20. Ch. 2. Build a Safety Net
-		- Clean C++20. Ch. 3. Be Principled
-	- [Part 4](Notes/CS2CPP_notes_part_4.pdf)
-		- Clean C++20. Ch. 4. Basics of Clean C++
-- Intermediate
-	- [Part 5](Notes/CS2CPP_notes_part_5.pdf)
-		- C++20 Recipes. Ch. 2. Initialization and Auto
-		- Professional C++. Ch. 2. Working with Strings and String Views
-		- Professional C++. Ch. 3. Coding with Style
-		- Exploring C++20. Ch. 28. Documentation
-		- Professional C++. Ch. 4. Designing Professional C++ Programs
-	- [Part 6](Notes/CS2CPP_notes_part_6.pdf)
-		- Exploring C++20. Ch. 12. Conditions and Logic
-	- [Part 7](Notes/CS2CPP_notes_part_7.pdf)
-		- _Exploring C++20. Ch. 17. Characters_
-		- _Exploring C++20. Ch. 19. Case-Folding_
-		- _Exploring C++20. Ch. 20. Writing Functions_
-		- _Exploring C++20. Ch. 21. Functional Arguments_
-		- C++20 Recipes. Ch. 2. Compile Time Constants
-		- _Exploring C++20. Ch. 30. Custom Types_
-		- Professional C++. Ch. 5. Design and Objects
-		- Professional C++. Ch. 6. Designing for reuse
-	- [Part 8](Notes/CS2CPP_notes_part_8.pdf)
-		- Professional C++. Ch. 8. Gaining Proficiency with Classes a nd Objects
-		- _Exploring C++20. Ch. 33. Assignment and Initialization_
-		- _Exploring C++20. Ch. 34. Writing Classes_
-		- _Exploring C++20. Ch. 35. More About Member functions_
-		- Exploring C++20. Ch. 36. Access Levels
-		- _Exploring C++20. Ch. 37. Understanding Object-Oriented Programming_
-	- [Part 9](Notes/CS2CPP_notes_part_9.pdf)
-		- Professional C++. Ch. 9. Mastering Classes a nd Objects
-		- Exploring C++20. Ch. 39. Virtual functions
-		- _Exploring C++20. Ch. 40. Classes and Types_
-		- Exploring C++20. Ch. 41. Declarations and Definitions
-		- _A Tour of C++. Ch. 5. Essential Operations_
-	- [Part 10](Notes/CS2CPP_notes_part_10.pdf)
-		- A Tour of C++. Ch. 3. Modularity
-		- Exploring C++20. Ch. 42. Modules
-		- _Exploring C++20. Ch. 43. Old-Fashioned "Modules"_
-		- Clean C++20. Ch. 6. Modularuty
-	- [Part 11](Notes/CS2CPP_notes_part_11.pdf)
-		- Professional C++. Ch. 10. Discovering Inheritance Techniques
-		- C++20 Recipes. Ch. 6. Inheritance
-		- _Exploring C++20. Ch. 38. Inheritance_
-	- Part 12
-		- ...
-- Advanced
-- Professional
-- Expert
-	
 ## Study Plan
 _(minor edits might happen)_
 
@@ -223,6 +161,68 @@ At this point, you should be able to make at least what you can do in C#.
 - **Real-Time C++.** Appendix C (Kormanyos 2021 pp. 493-492)
 - **C++20 Recipes.** Ch. 14. (Browning and Sutherland 2020 pp. 547-619)
 
+## Note Index
+_(each part included as PDF-file)_
+
+- The Basics
+	- [Part 1](Notes/CS2CPP_notes_part_1.pdf)
+		- Professional C++. Ch. 1. A Crash Course in C++ and the Standard Library 
+		- As this is a crash course, theres a lot to comprehend. Fortunately it is followed up later in the book etc.
+	- [Part 2](Notes/CS2CPP_notes_part_3.pdf)
+		- A Tour of C++. Ch. 1. The Basics
+		- The C++ Programming Language. Ch. 1.2. The Basics
+		- A Tour of C++. Ch. 2. User Defined Types
+	- [Part 3](Notes/CS2CPP_notes_part_2.pdf)
+		- Clean C++20. Ch. 2. Build a Safety Net
+		- Clean C++20. Ch. 3. Be Principled
+	- [Part 4](Notes/CS2CPP_notes_part_4.pdf)
+		- Clean C++20. Ch. 4. Basics of Clean C++
+- Intermediate
+	- [Part 5](Notes/CS2CPP_notes_part_5.pdf)
+		- C++20 Recipes. Ch. 2. Initialization and Auto
+		- Professional C++. Ch. 2. Working with Strings and String Views
+		- Professional C++. Ch. 3. Coding with Style
+		- Exploring C++20. Ch. 28. Documentation
+		- Professional C++. Ch. 4. Designing Professional C++ Programs
+	- [Part 6](Notes/CS2CPP_notes_part_6.pdf)
+		- Exploring C++20. Ch. 12. Conditions and Logic
+	- [Part 7](Notes/CS2CPP_notes_part_7.pdf)
+		- _Exploring C++20. Ch. 17. Characters_
+		- _Exploring C++20. Ch. 19. Case-Folding_
+		- _Exploring C++20. Ch. 20. Writing Functions_
+		- _Exploring C++20. Ch. 21. Functional Arguments_
+		- C++20 Recipes. Ch. 2. Compile Time Constants
+		- _Exploring C++20. Ch. 30. Custom Types_
+		- Professional C++. Ch. 5. Design and Objects
+		- Professional C++. Ch. 6. Designing for reuse
+	- [Part 8](Notes/CS2CPP_notes_part_8.pdf)
+		- Professional C++. Ch. 8. Gaining Proficiency with Classes a nd Objects
+		- _Exploring C++20. Ch. 33. Assignment and Initialization_
+		- _Exploring C++20. Ch. 34. Writing Classes_
+		- _Exploring C++20. Ch. 35. More About Member functions_
+		- Exploring C++20. Ch. 36. Access Levels
+		- _Exploring C++20. Ch. 37. Understanding Object-Oriented Programming_
+	- [Part 9](Notes/CS2CPP_notes_part_9.pdf)
+		- Professional C++. Ch. 9. Mastering Classes a nd Objects
+		- Exploring C++20. Ch. 39. Virtual functions
+		- _Exploring C++20. Ch. 40. Classes and Types_
+		- Exploring C++20. Ch. 41. Declarations and Definitions
+		- _A Tour of C++. Ch. 5. Essential Operations_
+	- [Part 10](Notes/CS2CPP_notes_part_10.pdf)
+		- A Tour of C++. Ch. 3. Modularity
+		- Exploring C++20. Ch. 42. Modules
+		- _Exploring C++20. Ch. 43. Old-Fashioned "Modules"_
+		- Clean C++20. Ch. 6. Modularuty
+	- [Part 11](Notes/CS2CPP_notes_part_11.pdf)
+		- Professional C++. Ch. 10. Discovering Inheritance Techniques
+		- C++20 Recipes. Ch. 6. Inheritance
+		- _Exploring C++20. Ch. 38. Inheritance_
+	- Part 12
+		- ...
+- Advanced
+- Professional
+- Expert
+	
 ## Litterature
 * Browning, J. B., & Sutherland, B. (2020). C++20 Recipes: A Problem-Solution Approach (2nd ed.). Apress, New York, NY.
 * Gregoire, M. (2021). Professional C++ (5th ed.). Wiley, Indiana, IN.
