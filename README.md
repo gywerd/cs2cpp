@@ -20,7 +20,7 @@
 This repo is intended as an aid for experienced C# programmers transitioning to C++. It is comprehensive, but not conclusive for everyone, as it follows my learning path and the curriculum I've developed for myself. There might be overlap between content of books resulting in minor adjustments of the curriculum over the course of time.
 
 ### How can you contribute
-Suggestions can be reported as [./issues/](https://github.com/gywerd/cs2cpp/issues) e.g. 
+Suggestions can be reported as [issues](https://github.com/gywerd/cs2cpp/issues) e.g. 
 - other or better litterature
 - clarificiation to notes
 
