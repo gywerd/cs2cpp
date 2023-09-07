@@ -31,7 +31,7 @@ Suggestions can be reported as issues e.g.
 ### Major issues
 1. The transition from C# to C++ involves understanding the differences and similarities between the two languages, as well as adapting to C++'s manual memory management and more flexible nature.
 2. Avoid Pointers in C++ where applicable. Pointers were a fundamental part of C++ and have a broader range of applications than just hardware control. They are used for dynamic memory management, data structures, function pointers, efficiency, and more.
-3. Modern C++ practices emphasize safer and more abstract methods of memory management, including the use of automatic variables, smart pointers, the standard library, and references.
+3. Modern C++ practices emphasize safer and more abstract methods of memory management, including the use of automatic variables, smart pointers, the standard library, references, and modularity.
 4. You can develop Business Applications in C++ without focusing heavily on pointers, especially by using modern techniques and leveraging abstract constructs and smart pointers.
 5. **Learning process.** Mastering C++ requires patience, practice, and time. Use resources like online tutorials, books, and courses to build your understanding. Practical exercise and gradually increasing complexity are the keys to success.
 6. **Projects and community.** Build small projects and participate in the programming community to share your progress and receive support from other developers.
@@ -98,7 +98,13 @@ _(each part included as PDF-file)_
 	- Exploring C++20. Ch. 39. Virtual functions
 	- _Exploring C++20. Ch. 40. Classes and Types_
 	- Exploring C++20. Ch. 41. Declarations and Definitions
-- Part 10
+	- _A Tour of C++. Ch. 5. Essential Operations_
+- [Part 10](Notes/CS2CPP_notes_part_10.pdf)
+	- A Tour of C++. Ch. 3. Modularity
+	- Exploring C++20. Ch. 42. Modules
+	- _Exploring C++20. Ch. 43. Old-Fashioned "Modules"_
+	- Clean C++20. Ch. 6. Modularuty
+- Part 11
 	- ...
 	
 ## Litterature
@@ -137,11 +143,11 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- **Exploring C++20.** Ch. 39 (Lischner 2021 pp. 275-283)
 	- _**Exploring C++20.** Ch. 40 (Lischner 2021 pp. 285-294)_
 	- **Exploring C++20.** Ch. 41 (Lischner 2021 pp. 295-304)
-	- **A Tour of C++.** Ch. 3 (Stroustrup 2018 pp. 29-46)
+	- _**A Tour of C++.** Ch. 5 (Stroustrup 2018 pp. 65-77)_
+- **A Tour of C++.** Ch. 3 (Stroustrup 2018 pp. 29-46)
 	- **Exploring C++20.** Ch. 42 (Lischner 2021 pp. 305-314)
-	- _**Exploring C++20.** Ch. 43 (Lischner 2021 pp. 315-321)_
 	- **Clean C++20.** Ch. 6 (Roth 2021 pp. 221-291)
-	- **A Tour of C++.** Ch. 5 (Stroustrup 2018 pp. 65-77)
+	- _**Exploring C++20.** Ch. 43 (Lischner 2021 pp. 315-321)_
 - **Professional C++.** Ch. 10 (Gregoire 2021 pp. 337-395)
 	- **Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)
 	- **C++20 Recipes.** Ch. 6 (Browning and Sutherland 2020 pp. 189-213)
