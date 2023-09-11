@@ -316,6 +316,7 @@ _(each part included as PDF-file)_
 			- Exploring C++20. Ch. 44. Function Objects
 			- C++20 Recipes. Ch. 2. Lambdas
 - Professional
+	-Part ...
 		- Professional C++. Ch. 20. Mastering Standard Library Algorithms
 			- Clean C++20. Ch. 5. Advanced Concepts of Modern C++
 			- Clean C++20. Ch. 7. Functional Programming
@@ -357,6 +358,7 @@ _(each part included as PDF-file)_
 		- Professional C++. Ch. 26. Big and Little Numbers
 		- Professional C++. Ch. 27. Very Big and Very Little Numbers
 - Expert
+	-Part ...
 		- Professional C++. Ch. 28. Maximizing Software Engineering Methods
 			- Real-Time C++. App. B.2. Software Architecture
 		- Professional C++. Ch. 7. Memory Management
