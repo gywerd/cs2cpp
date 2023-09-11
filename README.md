@@ -57,6 +57,7 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 
 ### The Basics
 - **Professional C++.** Ch. 1 (Gregoire 2021 pp. 3-86)
+	- **Modern C++ ** Ch. 1 (Manila 2020 pp.1-65)
 	- **A Tour of C++.** Ch. 1 (Stroustrup 2018 pp. 1-19)
 	- **The C++ Programming Language.** Ch. 1.2 (Stroustrup 2013 pp. 37-58)
 	- **A Tour of C++.** Ch. 2 (Stroustrup 2018 pp. 21-28)
@@ -64,11 +65,14 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 25-40)
 	
 ### Intermediate
-- **Professional C++.** Ch. 2-3 (Gregoire 2021 pp. 87-167)
+- **Professional C++.** Ch. 2 (Gregoire 2021 pp. 87-110)
+	- **Modern C++ ** Ch. 2 (Manila 2020 pp.67-142)
+- **Professional C++.** Ch. 3 (Gregoire 2021 pp. 111-167)
 	- **Exploring C++20.** Ch. 28 (Lischner 2021 pp. 191-196)
 - **Professional C++.** Ch. 4 (Gregoire 2021 pp. 87-167)
 	- _**Exploring C++20.** Ch. 17-21 (Lischner 2021 pp. 109-142)_
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 40-44)
+	- **Modern C++ ** Ch. 4 (Manila 2020 pp.191-217)
 	- _**Exploring C++20.** Ch. 30 (Lischner 2021 pp. 203-209)_
 - **Professional C++.** Ch. 5-6; (Gregoire 2021 pp. 169-207)
 - **Professional C++.** Ch. 8 (Gregoire 2021 pp. 250-282)
@@ -77,6 +81,7 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- _**Exploring C++20.** Ch. 37 (Lischner 2021 pp. 259-264)_
 - **Professional C++.** Ch. 9 (Gregoire 2021 pp. 283-335)
 	- _**A Tour of C++.** Ch. 4 Stroustrup 2018 (Stroustrup 2018 pp. 47-64)_
+	- **Modern C++ ** Ch. 3 (Manila 2020 pp.143-190)
 	- **Exploring C++20.** Ch. 39 (Lischner 2021 pp. 275-283)
 	- _**Exploring C++20.** Ch. 40 (Lischner 2021 pp. 285-294)_
 	- **Exploring C++20.** Ch. 41 (Lischner 2021 pp. 295-304)
@@ -85,6 +90,7 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- **Exploring C++20.** Ch. 42 (Lischner 2021 pp. 305-314)
 	- **Clean C++20.** Ch. 6 (Roth 2021 pp. 221-291)
 	- _**Exploring C++20.** Ch. 43 (Lischner 2021 pp. 315-321)_
+	- **Modern C++ ** Ch. 12 (Manila 2020 pp. 643-657)
 - **Professional C++.** Ch. 10 (Gregoire 2021 pp. 337-395)
 	- _**Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)_
 	- **C++20 Recipes.** Ch. 6 (Browning and Sutherland 2020 pp. 189-213)
@@ -106,6 +112,7 @@ At this point, you should be able to write useful C++ programs and libraries. It
 	- **Exploring C++20.** Ch. 14 (Lischner 2021 pp. 95-98)
 	- **Exploring C++20.** Ch. 32 (Lischner 2021 pp. 221-224)
 	- **Exploring C++20.** Ch. 60-61 (Lischner 2021 pp. 491-509)
+	- **Modern C++ ** Ch. 7 (Manila 2020 pp.335-398)
 - **Professional C++.** Ch. 14 (Gregoire 2021 pp. 495-533)
 	- **Exploring C++20.** Ch. 48 (Lischner 2021 pp. 357-372)
 - **Professional C++.** Ch. 15 (Gregoire 2021 pp. 536-572)
@@ -119,6 +126,7 @@ At this point, you should be able to write useful C++ programs and libraries. It
 	- **C++20 Recipes.** Ch. 8 (Browning and Sutherland 2020 pp. 251-276)
 	- **The C++ Programming Language.** Ch. 1.4 (Stroustrup 2013 pp. 87-110)
 	- **Exploring C++20.** Ch. 45 (Lischner 2021 pp. 327-340)
+	- **Modern C++ ** Ch. 5 (Manila 2020 pp. 219-276)
 - **Professional C++.** Ch. 19 (Gregoire 2021 pp. 699-723)
 	- **Exploring C++20.** Ch. 44 (Lischner 2021 pp. 323-326)
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 44-55; 71-80)
@@ -127,6 +135,7 @@ At this point, you should be able to write useful C++ programs and libraries. It
 	- **Clean C++20.** Ch. 7 (Roth 2021 pp. 293-334)
 	- **C++20 Recipes.** Ch. 11 (Browning and Sutherland 2020 pp. 365-428)
 	- **The C++ Programming Language.** Ch. 1.5 (Stroustrup 2013 pp. 111-132)
+	- **Modern C++ ** Ch. 8 (Manila 2020 pp. 399-481)
 	- **C++20 Recipes.** Ch. 12-13 (Browning and Sutherland 2020 pp. 429-546)
 - **Professional C++.** Ch. 21 (Gregoire 2021 pp. 763-791)
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 55-60)
@@ -148,13 +157,17 @@ At this point, you should be able to write useful C++ programs and libraries. It
 	- **Exploring C++20.** Ch. 62 (Lischner 2021 pp. 511-523)
 - **Professional C++.** Ch. 29 (Gregoire 2021 pp. 993-1020)
 	- **Real-Time C++.** Appendix B.2 (Kormanyos 2021 pp. 479-480)
+	- **Modern C++ ** Ch. 12 (Manila 2020 pp.657-700)
 - **Professional C++.** Ch. 30 (Gregoire 2021 pp.1021-1044)
 	- **Clean C++20.** Ch. 8 (Roth 2021 pp. 336-373)
+	- **Modern C++ ** Ch. 11 (Manila 2020 pp. 581-642)
 	
 At this point, you should be able to make at least what you can do in C#.
 
 ### Expert
-- **Professional C++.** Ch. 31-34 (Gregoire 2021 pp. 1055-1161)
+- **Professional C++.** Ch. 31-33 (Gregoire 2021 pp. 1055-1136)
+	- **Modern C++ ** Ch. 9-10 (Manila 2020 pp. 483-580)
+- **Professional C++.** Ch. 34 (Gregoire 2021 pp. 1137-1161)
 - **Real-Time C++.** Ch. 9 (Kormanyos 2021 pp. 205-238)
 - **Real-Time C++.** Ch. 11 (Kormanyos 2021 pp. 279-294)
 - **Real-Time C++.** Part III (Kormanyos 2021 pp. 295-434)
@@ -168,62 +181,69 @@ _(each part included as PDF-file)_
 	- [Part 1](Notes/CS2CPP_notes_part_1.pdf)
 		- Professional C++. Ch. 1. A Crash Course in C++ and the Standard Library 
 		- As this is a crash course, theres a lot to comprehend. Fortunately it is followed up later in the book etc.
-	- [Part 2](Notes/CS2CPP_notes_part_3.pdf)
+	- [Part 2](Notes/CS2CPP_notes_part_2.pdf)
+		- Modern C++. Ch. 1. Learning Modern Core Language Features
+	- [Part 3](Notes/CS2CPP_notes_part_3.pdf)
 		- A Tour of C++. Ch. 1. The Basics
 		- The C++ Programming Language. Ch. 1.2. The Basics
 		- A Tour of C++. Ch. 2. User Defined Types
-	- [Part 3](Notes/CS2CPP_notes_part_2.pdf)
+	- [Part 4](Notes/CS2CPP_notes_part_4.pdf)
 		- Clean C++20. Ch. 2. Build a Safety Net
 		- Clean C++20. Ch. 3. Be Principled
-	- [Part 4](Notes/CS2CPP_notes_part_4.pdf)
+	- [Part 5](Notes/CS2CPP_notes_part_5.pdf)
 		- Clean C++20. Ch. 4. Basics of Clean C++
 - Intermediate
-	- [Part 5](Notes/CS2CPP_notes_part_5.pdf)
+	- [Part 6](Notes/CS2CPP_notes_part_6.pdf)
 		- C++20 Recipes. Ch. 2. Initialization and Auto
 		- Professional C++. Ch. 2. Working with Strings and String Views
+		- Modern C++. Ch. 2. Working with Numbers and strings
 		- Professional C++. Ch. 3. Coding with Style
 		- Exploring C++20. Ch. 28. Documentation
 		- Professional C++. Ch. 4. Designing Professional C++ Programs
-	- [Part 6](Notes/CS2CPP_notes_part_6.pdf)
-		- Exploring C++20. Ch. 12. Conditions and Logic
 	- [Part 7](Notes/CS2CPP_notes_part_7.pdf)
+		- Exploring C++20. Ch. 12. Conditions and Logic
+	- [Part 8](Notes/CS2CPP_notes_part_8.pdf)
 		- _Exploring C++20. Ch. 17. Characters_
 		- _Exploring C++20. Ch. 19. Case-Folding_
 		- _Exploring C++20. Ch. 20. Writing Functions_
 		- _Exploring C++20. Ch. 21. Functional Arguments_
 		- C++20 Recipes. Ch. 2. Compile Time Constants
+		- Modern C++. Ch. 4. Preprocessing and Compilation
 		- _Exploring C++20. Ch. 30. Custom Types_
 		- Professional C++. Ch. 5. Design and Objects
 		- Professional C++. Ch. 6. Designing for reuse
-	- [Part 8](Notes/CS2CPP_notes_part_8.pdf)
+	- [Part 9](Notes/CS2CPP_notes_part_9.pdf)
 		- Professional C++. Ch. 8. Gaining Proficiency with Classes a nd Objects
 		- _Exploring C++20. Ch. 33. Assignment and Initialization_
 		- _Exploring C++20. Ch. 34. Writing Classes_
 		- _Exploring C++20. Ch. 35. More About Member functions_
 		- Exploring C++20. Ch. 36. Access Levels
 		- _Exploring C++20. Ch. 37. Understanding Object-Oriented Programming_
-	- [Part 9](Notes/CS2CPP_notes_part_9.pdf)
+	- [Part 10](Notes/CS2CPP_notes_part_10.pdf)
 		- Professional C++. Ch. 9. Mastering Classes a nd Objects
 		- Exploring C++20. Ch. 39. Virtual functions
+		- Modern C++. Ch. 3. Exploring functions
 		- _Exploring C++20. Ch. 40. Classes and Types_
 		- Exploring C++20. Ch. 41. Declarations and Definitions
 		- _A Tour of C++. Ch. 5. Essential Operations_
-	- [Part 10](Notes/CS2CPP_notes_part_10.pdf)
+	- [Part 11](Notes/CS2CPP_notes_part_11.pdf)
 		- A Tour of C++. Ch. 3. Modularity
 		- Exploring C++20. Ch. 42. Modules
-		- _Exploring C++20. Ch. 43. Old-Fashioned "Modules"_
 		- Clean C++20. Ch. 6. Modularuty
-	- [Part 11](Notes/CS2CPP_notes_part_11.pdf)
+		- Modern C++. Ch. 12. Modules
+		- _Exploring C++20. Ch. 43. Old-Fashioned "Modules"_
+	- [Part 12](Notes/CS2CPP_notes_part_12.pdf)
 		- Professional C++. Ch. 10. Discovering Inheritance Techniques
 		- C++20 Recipes. Ch. 6. Inheritance
 		- _Exploring C++20. Ch. 38. Inheritance_
-	- Part 12
-		- ...
 - Advanced
+	- Part 13
+		- ...
 - Professional
 - Expert
 	
 ## Litterature
+* Bancilla, M. (2020).Modern C++ Programming Cookbook (2nd ed.). Packt, Birmingham, UK.
 * Browning, J. B., & Sutherland, B. (2020). C++20 Recipes: A Problem-Solution Approach (2nd ed.). Apress, New York, NY.
 * Gregoire, M. (2021). Professional C++ (5th ed.). Wiley, Indiana, IN.
 * Kormanyos, C. (2021). Real Time C++: Efficient Object-Oriented and Template Microcontroller Programming (4th ed.). Springer-Verlag, Berlin, DE.
