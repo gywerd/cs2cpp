@@ -57,7 +57,7 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 
 ### The Basics
 - **Professional C++.** Ch. 1 (Gregoire 2021 pp. 3-86)
-	- **Modern C++ ** Ch. 1 (Manila 2020 pp.1-65)
+	- **Modern C++.** Ch. 1 (Manila 2020 pp.1-65)
 	- **A Tour of C++.** Ch. 1 (Stroustrup 2018 pp. 1-19)
 	- **The C++ Programming Language.** Ch. 1.2 (Stroustrup 2013 pp. 37-58)
 	- **A Tour of C++.** Ch. 2 (Stroustrup 2018 pp. 21-28)
@@ -66,13 +66,13 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	
 ### Intermediate
 - **Professional C++.** Ch. 2 (Gregoire 2021 pp. 87-110)
-	- **Modern C++ ** Ch. 2 (Manila 2020 pp.67-142)
+	- **Modern C++.** Ch. 2 (Manila 2020 pp.67-142)
 - **Professional C++.** Ch. 3 (Gregoire 2021 pp. 111-167)
 	- **Exploring C++20.** Ch. 28 (Lischner 2021 pp. 191-196)
 - **Professional C++.** Ch. 4 (Gregoire 2021 pp. 87-167)
 	- _**Exploring C++20.** Ch. 17-21 (Lischner 2021 pp. 109-142)_
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 40-44)
-	- **Modern C++ ** Ch. 4 (Manila 2020 pp.191-217)
+	- **Modern C++.** Ch. 4 (Manila 2020 pp.191-217)
 	- _**Exploring C++20.** Ch. 30 (Lischner 2021 pp. 203-209)_
 - **Professional C++.** Ch. 5-6; (Gregoire 2021 pp. 169-207)
 - **Professional C++.** Ch. 8 (Gregoire 2021 pp. 250-282)
@@ -81,7 +81,7 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- _**Exploring C++20.** Ch. 37 (Lischner 2021 pp. 259-264)_
 - **Professional C++.** Ch. 9 (Gregoire 2021 pp. 283-335)
 	- _**A Tour of C++.** Ch. 4 Stroustrup 2018 (Stroustrup 2018 pp. 47-64)_
-	- **Modern C++ ** Ch. 3 (Manila 2020 pp.143-190)
+	- **Modern C++.** Ch. 3 (Manila 2020 pp.143-190)
 	- **Exploring C++20.** Ch. 39 (Lischner 2021 pp. 275-283)
 	- _**Exploring C++20.** Ch. 40 (Lischner 2021 pp. 285-294)_
 	- **Exploring C++20.** Ch. 41 (Lischner 2021 pp. 295-304)
@@ -90,7 +90,7 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- **Exploring C++20.** Ch. 42 (Lischner 2021 pp. 305-314)
 	- **Clean C++20.** Ch. 6 (Roth 2021 pp. 221-291)
 	- _**Exploring C++20.** Ch. 43 (Lischner 2021 pp. 315-321)_
-	- **Modern C++ ** Ch. 12 (Manila 2020 pp. 643-657)
+	- **Modern C++.** Ch. 12 (Manila 2020 pp. 643-657)
 - **Professional C++.** Ch. 10 (Gregoire 2021 pp. 337-395)
 	- _**Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)_
 	- **C++20 Recipes.** Ch. 6 (Browning and Sutherland 2020 pp. 189-213)
@@ -126,7 +126,7 @@ At this point, you should be able to write useful C++ programs and libraries. It
 	- **C++20 Recipes.** Ch. 8 (Browning and Sutherland 2020 pp. 251-276)
 	- **The C++ Programming Language.** Ch. 1.4 (Stroustrup 2013 pp. 87-110)
 	- **Exploring C++20.** Ch. 45 (Lischner 2021 pp. 327-340)
-	- **Modern C++ ** Ch. 5 (Manila 2020 pp. 219-276)
+	- **Modern C++.** Ch. 5 (Manila 2020 pp. 219-276)
 - **Professional C++.** Ch. 19 (Gregoire 2021 pp. 699-723)
 	- **Exploring C++20.** Ch. 44 (Lischner 2021 pp. 323-326)
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 44-55; 71-80)
@@ -135,7 +135,7 @@ At this point, you should be able to write useful C++ programs and libraries. It
 	- **Clean C++20.** Ch. 7 (Roth 2021 pp. 293-334)
 	- **C++20 Recipes.** Ch. 11 (Browning and Sutherland 2020 pp. 365-428)
 	- **The C++ Programming Language.** Ch. 1.5 (Stroustrup 2013 pp. 111-132)
-	- **Modern C++ ** Ch. 8 (Manila 2020 pp. 399-481)
+	- **Modern C++.** Ch. 8 (Manila 2020 pp. 399-481)
 	- **C++20 Recipes.** Ch. 12-13 (Browning and Sutherland 2020 pp. 429-546)
 - **Professional C++.** Ch. 21 (Gregoire 2021 pp. 763-791)
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 55-60)
@@ -157,16 +157,16 @@ At this point, you should be able to write useful C++ programs and libraries. It
 	- **Exploring C++20.** Ch. 62 (Lischner 2021 pp. 511-523)
 - **Professional C++.** Ch. 29 (Gregoire 2021 pp. 993-1020)
 	- **Real-Time C++.** Appendix B.2 (Kormanyos 2021 pp. 479-480)
-	- **Modern C++ ** Ch. 12 (Manila 2020 pp.657-700)
+	- **Modern C++.** Ch. 12 (Manila 2020 pp.657-700)
 - **Professional C++.** Ch. 30 (Gregoire 2021 pp.1021-1044)
 	- **Clean C++20.** Ch. 8 (Roth 2021 pp. 336-373)
-	- **Modern C++ ** Ch. 11 (Manila 2020 pp. 581-642)
+	- **Modern C++.** Ch. 11 (Manila 2020 pp. 581-642)
 	
 At this point, you should be able to make at least what you can do in C#.
 
 ### Expert
 - **Professional C++.** Ch. 31-33 (Gregoire 2021 pp. 1055-1136)
-	- **Modern C++ ** Ch. 9-10 (Manila 2020 pp. 483-580)
+	- **Modern C++.** Ch. 9-10 (Manila 2020 pp. 483-580)
 - **Professional C++.** Ch. 34 (Gregoire 2021 pp. 1137-1161)
 - **Real-Time C++.** Ch. 9 (Kormanyos 2021 pp. 205-238)
 - **Real-Time C++.** Ch. 11 (Kormanyos 2021 pp. 279-294)
