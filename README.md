@@ -243,11 +243,15 @@ _(each part included as PDF-file)_
 - Expert
 	
 ## Litterature
-* Bancilla, M. (2020).Modern C++ Programming Cookbook (2nd ed.). Packt, Birmingham, UK.
+* Andrist, B., & Sehr, V. (2020). C++ High Performance (2nd ed.). Packt, Birmingham, UK.
+* Bancilla, M. (2020). Modern C++ Programming Cookbook (2nd ed.). Packt, Birmingham, UK.
 * Browning, J. B., & Sutherland, B. (2020). C++20 Recipes: A Problem-Solution Approach (2nd ed.). Apress, New York, NY.
 * Gregoire, M. (2021). Professional C++ (5th ed.). Wiley, Indiana, IN.
+* Grigoriyan, V., & Wu, S. (2020). Expert C++ Programming Cookbook (1st ed.). Packt, Birmingham, UK.
 * Kormanyos, C. (2021). Real Time C++: Efficient Object-Oriented and Template Microcontroller Programming (4th ed.). Springer-Verlag, Berlin, DE.
 * Lischner, R. (2020). Exploring C++20: The Programmer's Introduction to C++ (3rd ed.). Apress, New York, NY.
+* Ostrowski, A., & Gaczkowski, P. (2021). Software Architecture with C++ (1st ed.). Packt, Birmingham, UK.
+* Quinn, Dr.R. (2020). Advanced C++ Programming Cookbook (1st ed.). Packt, Birmingham, UK.
 * Roth, S. (2021). Clean C++20: Sustainable Software Development Patterns and Best Practices (2nd ed.). Apress, New York, NY.
 * Stroustrup, B. (2013). The C++ Programming (4th ed.). Pearson Education, Upper Saddle River, NJ.
 * Stroustrup, B. (2018). A Tour of C++ (2nd ed.). Pearson Education, Upper Saddle River, NJ.
