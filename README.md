@@ -74,6 +74,7 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 40-44)
 	- **Modern C++.** Ch. 4 (Manila 2020 pp.191-217)
 	- _**Exploring C++20.** Ch. 30 (Lischner 2021 pp. 203-209)_
+	- **Advanced C++.** Ch. 9 (Quinn 2020 pp. 273-299)
 - **Professional C++.** Ch. 5-6; (Gregoire 2021 pp. 169-207)
 - **Professional C++.** Ch. 8 (Gregoire 2021 pp. 250-282)
 	- _**Exploring C++20.** Ch. 33-35 (Lischner 2021 pp. 225-247)_
@@ -86,11 +87,13 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- _**Exploring C++20.** Ch. 40 (Lischner 2021 pp. 285-294)_
 	- **Exploring C++20.** Ch. 41 (Lischner 2021 pp. 295-304)
 	- _**A Tour of C++.** Ch. 5 (Stroustrup 2018 pp. 65-77)_
+	- **Advanced C++.** Ch. 3 (Quinn 2020 pp. 73-102)
 - **A Tour of C++.** Ch. 3 (Stroustrup 2018 pp. 29-46)
 	- **Exploring C++20.** Ch. 42 (Lischner 2021 pp. 305-314)
 	- **Clean C++20.** Ch. 6 (Roth 2021 pp. 221-291)
 	- _**Exploring C++20.** Ch. 43 (Lischner 2021 pp. 315-321)_
 	- **Modern C++.** Ch. 12 (Manila 2020 pp. 643-657)
+	- **Advanced C++.** Ch. 13 (Quinn 2020 pp. 409-413)
 - **Professional C++.** Ch. 10 (Gregoire 2021 pp. 337-395)
 	- _**Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)_
 	- **C++20 Recipes.** Ch. 6 (Browning and Sutherland 2020 pp. 189-213)
@@ -104,6 +107,7 @@ At this point, you should be able to write useful C++ programs and libraries. It
 - **Professional C++.** Ch. 12 (Gregoire 2021 pp. 419-464)
 	- **A Tour of C++.** Ch. 6 (Stroustrup 2018 pp. 78-92)
 	- **Exploring C++20.** Ch. 51-55 (Lischner 2021 pp. 391-430)
+	- **Advanced C++.** Ch. 4 (Quinn 2020 pp. 103-141)
 	- **C++20 Recipes.** Ch. 9 (Browning and Sutherland 2020 pp. 277-300)
 	- **A Tour of C++.** Ch. 7 (Stroustrup 2018 pp. 93-105)
 	- **Exploring C++20.** Ch. 56 (Lischner 2021 pp. 431-447)
@@ -115,6 +119,7 @@ At this point, you should be able to write useful C++ programs and libraries. It
 	- **Modern C++ ** Ch. 7 (Manila 2020 pp.335-398)
 - **Professional C++.** Ch. 14 (Gregoire 2021 pp. 495-533)
 	- **Exploring C++20.** Ch. 48 (Lischner 2021 pp. 357-372)
+	- **Advanced C++.** Ch. 2 (Quinn 2020 pp. 39-72)
 - **Professional C++.** Ch. 15 (Gregoire 2021 pp. 536-572)
 	- **Exploring C++20.** Ch. 49-50 (Lischner 2021 pp. 373-387)
 - **Professional C++.** Ch. 16-18 (Gregoire 2021 pp. 535-698)
@@ -127,6 +132,7 @@ At this point, you should be able to write useful C++ programs and libraries. It
 	- **The C++ Programming Language.** Ch. 1.4 (Stroustrup 2013 pp. 87-110)
 	- **Exploring C++20.** Ch. 45 (Lischner 2021 pp. 327-340)
 	- **Modern C++.** Ch. 5 (Manila 2020 pp. 219-276)
+	- **Advanced C++.** Ch. 8 (Quinn 2020 pp. 245-272)
 - **Professional C++.** Ch. 19 (Gregoire 2021 pp. 699-723)
 	- **Exploring C++20.** Ch. 44 (Lischner 2021 pp. 323-326)
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 44-55; 71-80)
@@ -136,6 +142,7 @@ At this point, you should be able to write useful C++ programs and libraries. It
 	- **C++20 Recipes.** Ch. 11 (Browning and Sutherland 2020 pp. 365-428)
 	- **The C++ Programming Language.** Ch. 1.5 (Stroustrup 2013 pp. 111-132)
 	- **Modern C++.** Ch. 8 (Manila 2020 pp. 399-481)
+	- **Advanced C++.** Ch. 5 (Quinn 2020 pp. 143-181)
 	- **C++20 Recipes.** Ch. 12-13 (Browning and Sutherland 2020 pp. 429-546)
 - **Professional C++.** Ch. 21 (Gregoire 2021 pp. 763-791)
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 55-60)
@@ -167,6 +174,8 @@ At this point, you should be able to make at least what you can do in C#.
 ### Expert
 - **Professional C++.** Ch. 31-33 (Gregoire 2021 pp. 1055-1136)
 	- **Modern C++.** Ch. 9-10 (Manila 2020 pp. 483-580)
+	- **Advanced C++.** Ch. 6 (Quinn 2020 pp. 183-211)
+	- **Advanced C++.** Ch. 11 (Quinn 2020 pp. 335-365)
 - **Professional C++.** Ch. 34 (Gregoire 2021 pp. 1137-1161)
 - **Real-Time C++.** Ch. 9 (Kormanyos 2021 pp. 205-238)
 - **Real-Time C++.** Ch. 11 (Kormanyos 2021 pp. 279-294)
@@ -210,6 +219,7 @@ _(each part included as PDF-file)_
 		- C++20 Recipes. Ch. 2. Compile Time Constants
 		- Modern C++. Ch. 4. Preprocessing and Compilation
 		- _Exploring C++20. Ch. 30. Custom Types_
+		- Advanced C++. Ch. 9. Type Erasure
 		- Professional C++. Ch. 5. Design and Objects
 		- Professional C++. Ch. 6. Designing for reuse
 	- [Part 9](Notes/CS2CPP_notes_part_9.pdf)
@@ -226,11 +236,13 @@ _(each part included as PDF-file)_
 		- _Exploring C++20. Ch. 40. Classes and Types_
 		- Exploring C++20. Ch. 41. Declarations and Definitions
 		- _A Tour of C++. Ch. 5. Essential Operations_
+		- Advanced C++. Ch. 3. Implementing Move Semantics
 	- [Part 11](Notes/CS2CPP_notes_part_11.pdf)
 		- A Tour of C++. Ch. 3. Modularity
 		- Exploring C++20. Ch. 42. Modules
 		- Clean C++20. Ch. 6. Modularuty
 		- Modern C++. Ch. 12. Modules
+		- Advanced C++. Ch. 13. Modules
 		- _Exploring C++20. Ch. 43. Old-Fashioned "Modules"_
 	- [Part 12](Notes/CS2CPP_notes_part_12.pdf)
 		- Professional C++. Ch. 10. Discovering Inheritance Techniques
@@ -238,9 +250,116 @@ _(each part included as PDF-file)_
 		- _Exploring C++20. Ch. 38. Inheritance_
 - Advanced
 	- Part 13
-		- ...
+		- Professional C++. Ch. 11. Odds and Ends
+		- The C++ Programming Language. Ch. 1.3. Abstraction Mechanisms
+	- Part 14
+		- Professional C++. Ch. 12. Writing Generic Code with Templates
+		- A Tour of C++. Ch. 6. Templates
+		- Exploring C++20. Ch. 51. Function Templates
+		- Exploring C++20. Ch. 52. Class Templates
+		- Exploring C++20. Ch. 53. Template Specialization
+		- Exploring C++20. Ch. 54. Partial Template Specialization
+		- Exploring C++20. Ch. 55. Template Constraints
+		- Advanced C++. Ch. 4. Using Templates for Generic Programming
+	- Part 15
+		- A Tour of C++. Ch. 7. Concepts and Generic Programming
+		- Exploring C++20. Ch. 56. Names and Namespaces
+	- Part 16
+		- Professional C++. Ch. 13. Demystifying C++ I/O
+		- A Tour of C++. Ch. 10. Input and Output
+		- Exploring C++20. Ch. 14. Introduction to File I/O
+		- Exploring C++20. Ch. 32. Custom I/O Operators
+		- Exploring C++20. Ch. 60. Text I/O
+		- Exploring C++20. Ch. 61. Project 3. Currency Type
+		- Modern C++. Ch. 7. Working With Files and Streams
+	- Part 17
+		- Professional C++. Ch. 14. Handling Errors
+		- Exploring C++20. Ch. 48. Exceptions
+		- Advanced C++. Ch. 2. Using Exceptions for Error Handling
+	- Part 18
+		- Professional C++. Ch. 15. Overloading C++ Operators
+		- Exploring C++20. Ch. 49. More Operators
+		- Exploring C++20. Ch. 50. Project 2. Fixed-Point Numbers
+	- Part ...
+		- Professional C++. Ch. 16. Overview of the C++ Standard Library
+		- Professional C++. Ch. 17. Understanding Iterators and The Ranges Library
+		- Professional C++. Ch. 18. Standard Library Containers
+			- Exploring C++20. Ch. 47. Ranges, Views, and Adaptors
+			- A Tour of C++. Ch. 8. Library Overview
+			- A Tour of C++. Ch. 11. Containers
+			- C++20 Recipes. Ch. 7. The STL Containers
+			- A Tour of C++. Ch. 12. Algorithms
+			- C++20 Recipes. Ch. 8. The STL Algorithms
+			- The C++ Programming Language. Ch. 1.4 Containers and Algorithms
+			- Exploring C++20. Ch. 45. Useful Algorithms
+			- Modern C++. Ch. 5. Standard Library, Containers, Algorithms
+			- Advanced C++. Ch. 8. Custom Containers
+		- Professional C++. Ch. 19. Function Pointers, Function Objects, And Lambda Expressions
+			- Exploring C++20. Ch. 44. Function Objects
+			- C++20 Recipes. Ch. 2. Lambdas
 - Professional
+		- Professional C++. Ch. 20. Mastering Standard Library Algorithms
+			- Clean C++20. Ch. 5. Advanced Concepts of Modern C++
+			- Clean C++20. Ch. 7. Functional Programming
+			- C++20 Recipes. Ch. 11. Concurrency
+			- The C++ Programming Language. Ch. 1.5. Concurrency and Utilities
+			- Modern C++. Ch. 8. Leveraging Threading and Concurrency
+			- Advanced C++. Ch. 5. Concurrency and Synchronization
+			- C++20 Recipes. Ch. 12. Networking
+			- C++20 Recipes. Ch. 13. Scripting
+		- Professional C++. Ch. 21. String Localization and Regular Expressions
+			- A Tour of C++. Ch. 9. Strings and Regular Expressions
+			- Exploring C++20. Ch. 63. Regular Expressions
+			- Exploring C++20. Ch. 64. Moving Data with Rvalue References
+			- C++20 Recipes. Ch. 2. Lvalue and R-value (p. 60-71)
+			- Exploring C++20. Ch. 65. Smart Pointers
+			- Exploring C++20. Ch. 66. Files and File Names
+			- Exploring C++20. Ch. 67. Working with Bits
+			- Exploring C++20. Ch. 68. Enumerations
+			- Exploring C++20. Ch. 69. Multiple Inheritance
+			- Exploring C++20. Ch. 70. Concepts, Traits, and Policies
+			- Exploring C++20. Ch. 73. Programming at Compile Time
+			- Exploring C++20. Ch. 74. Project 4. Calculator
+		- Professional C++. Ch. 22. Date and Time Utilities
+			- C++20 Recipes. Ch. 2. Time (p. 55-60)
+		- Professional C++. Ch. 23. Using Iterators
+			- Exploring C++20. Ch. 46. More About Iterators
+		- Professional C++. Ch. 24. Unnamed Functions
+		- Professional C++. Ch. 25. Overloading Function Names
+			- Exploring C++20. Ch. 8. Formatted Output
+			- Exploring C++20. Ch. 9. Arrays and Vectors
+			- Exploring C++20. Ch. 10. Algorithms and Ranges
+			- Exploring C++20. Ch. 11. Increment and Decrement
+			- Exploring C++20. Ch. 16. Type Synonyms
+		- Professional C++. Ch. 26. Big and Little Numbers
+		- Professional C++. Ch. 27. Very Big and Very Little Numbers
 - Expert
+		- Professional C++. Ch. 28. Maximizing Software Engineering Methods
+			- Real-Time C++. App. B.2. Software Architecture
+		- Professional C++. Ch. 7. Memory Management
+			- Exploring C++20. Ch. 62. Pointers
+			- C++20 Recipes. Ch. 2. Managed Pointers
+			- C++20 Recipes. Ch. 10. Memory
+			- Advanced C++. Ch. 10. Dynamic Allocation
+		- Professional C++. Ch. 29. Writing Efficient C++
+			- Modern C++. Ch. 12. C++20 Core Features
+		- Professional C++. Ch. 30. Becoming Adept at Testing
+			- Clean C++20. Ch. 8. Test-Driven Development
+			- Modern C++. Ch. 11. Exploring Testing Frameworks
+		- Professional C++. Ch. 31. Conquering Debugging
+			- Advanced C++. Ch. 7. Debugging and Testing
+		- Professional C++. Ch. 32. Incorporating Design Techniques And Frameworks
+		- Professional C++. Ch. 33. Applying Design Patterns
+			- Modern C++. Ch. 9. Robustness and Performance
+			- Modern C++. Ch. 10. Implementing Patterns and Idioms
+			- Advanced C++. Ch. 6. Optimizing your Code for Performance
+			- Advanced C++. Ch. 11. Common Patterns in C++
+		- Professional C++. 34. Developing Cross-platform and Cross-Language Applications
+		- Real-Time C++. Ch. 9. Low-Level Hardware Drivers in C++
+		- Real-Time C++. Ch. 11. C++ Multitasking
+		- Real-Time C++. Part III. Mathematics and Utilities for Real-Time C++
+		- Real-Time C++. App. C Building GNU GCC Cross Compilers
+		- C++20 Recipes. Ch. 14. 3D Graphics Programming
 	
 ## Litterature
 * Andrist, B., & Sehr, V. (2020). C++ High Performance (2nd ed.). Packt, Birmingham, UK.
