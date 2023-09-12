@@ -89,6 +89,11 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- _**A Tour of C++.** Ch. 5 (Stroustrup 2018 pp. 65-77)_
 	- _**Advanced C++.** Ch. 3 (Quinn 2020 pp. 73-102)_
 	- _**Expert C++.** Ch. 3 (Grigoriyan & Wu 2020 pp. 71-120)_
+- **Professional C++.** Ch. 10 (Gregoire 2021 pp. 337-395)
+	- _**Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)_
+	- **C++20 Recipes.** Ch. 6 (Browning and Sutherland 2020 pp. 189-213)
+	- _**The C++ Programming Language.** Ch. 1.3 (Stroustrup 2013 pp. 59-85)_
+- **Professional C++.** Ch. 11 (Gregoire 2021 pp. 410-419)
 - **Professional C++.** Ch. 11 (Gregoire 2021 pp. 397-410)
 	- **A Tour of C++.** Ch. 3 (Stroustrup 2018 pp. 29-46)
 	- **Exploring C++20.** Ch. 42 (Lischner 2021 pp. 305-314)
@@ -96,11 +101,6 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- _**Modern C++.** Ch. 12 (Manila 2020 pp. 643-657)_
 	- _**Advanced C++.** Ch. 13 (Quinn 2020 pp. 409-413)_
 	- _**Exploring C++20.** Ch. 43 (Lischner 2021 pp. 315-321)_
-- **Professional C++.** Ch. 10 (Gregoire 2021 pp. 337-395)
-	- _**Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)_
-	- **C++20 Recipes.** Ch. 6 (Browning and Sutherland 2020 pp. 189-213)
-- **Professional C++.** Ch. 11 (Gregoire 2021 pp. 410-419)
-	- **The C++ Programming Language.** Ch. 1.3 (Stroustrup 2013 pp. 59-85)
 
 At this point, you should be able to write useful C++ programs and libraries. It is time to practice e.g. by converting your existing simpler code from C# to C++.
 
@@ -256,20 +256,20 @@ _(each part included as PDF-file)_
 		- _Advanced C++. Ch. 3. Implementing Move Semantics_
 		- _Expert C++. Ch. 3. Details of Object-Oriented Programming__
 	- [Part 11](Notes/CS2CPP_notes_part_11.pdf)
-		- Professional C++. Ch. 11. Modules
-		- A Tour of C++. Ch. 3. Modularity
-		- Exploring C++20. Ch. 42. Modules
-		- Clean C++20. Ch. 6. Modularuty
-	- [Part 12](Notes/CS2CPP_notes_part_12.pdf)
-		- _Modern C++. Ch. 12. Modules_
-		- _Advanced C++. Ch. 13. Modules_
-		- _Exploring C++20. Ch. 43. Old-Fashioned "Modules"_
 		- Professional C++. Ch. 10. Discovering Inheritance Techniques
 		- C++20 Recipes. Ch. 6. Inheritance
 		- _Exploring C++20. Ch. 38. Inheritance_
-	- [Part 13](Notes/CS2CPP_notes_part_12.pdf)
+		- _The C++ Programming Language. Ch. 1.3. Abstraction Mechanisms_
 		- Professional C++. Ch. 11. Odds and Ends
-		- The C++ Programming Language. Ch. 1.3. Abstraction Mechanisms
+	- [Part 12](Notes/CS2CPP_notes_part_12.pdf)
+		- Professional C++. Ch. 11. Modules
+		- A Tour of C++. Ch. 3. Modularity
+		- Exploring C++20. Ch. 42. Modules
+	- [Part 13](Notes/CS2CPP_notes_part_13.pdf)
+		- Clean C++20. Ch. 6. Modularuty
+		- _Modern C++. Ch. 12. Modules_
+		- _Advanced C++. Ch. 13. Modules_
+		- _Exploring C++20. Ch. 43. Old-Fashioned "Modules"_
 - Advanced
 	- Part 14
 		- Professional C++. Ch. 12. Writing Generic Code with Templates
