@@ -233,9 +233,9 @@ _(each part included as PDF-file)_
 		- _Exploring C++20. Ch. 20. Writing Functions_
 		- _Exploring C++20. Ch. 21. Functional Arguments_
 		- C++20 Recipes. Ch. 2. Compile Time Constants
-		- Modern C++. Ch. 4. Preprocessing and Compilation
+		- _Modern C++. Ch. 4. Preprocessing and Compilation_
 		- _Exploring C++20. Ch. 30. Custom Types_
-		- Advanced C++. Ch. 9. Type Erasure
+		- _Advanced C++. Ch. 9. Type Erasure_
 		- Professional C++. Ch. 5. Design and Objects
 		- Professional C++. Ch. 6. Designing for reuse
 	- [Part 9](Notes/CS2CPP_notes_part_9.pdf)
