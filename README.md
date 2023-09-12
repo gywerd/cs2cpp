@@ -224,8 +224,8 @@ _(each part included as PDF-file)_
 		- Modern C++. Ch. 2. Working with Numbers and strings
 		- Professional C++. Ch. 3. Coding with Style
 		- Exploring C++20. Ch. 28. Documentation
-		- Professional C++. Ch. 4. Designing Professional C++ Programs
 	- [Part 7](Notes/CS2CPP_notes_part_7.pdf)
+		- Professional C++. Ch. 4. Designing Professional C++ Programs
 		- Exploring C++20. Ch. 12. Conditions and Logic
 	- [Part 8](Notes/CS2CPP_notes_part_8.pdf)
 		- _Exploring C++20. Ch. 17. Characters_
