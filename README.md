@@ -72,9 +72,9 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 - **Professional C++.** Ch. 4 (Gregoire 2021 pp. 87-167)
 	- _**Exploring C++20.** Ch. 17-21 (Lischner 2021 pp. 109-142)_
 	- **C++20 Recipes.** Ch. 2 (Browning and Sutherland 2020 pp. 40-44)
-	- **Modern C++.** Ch. 4 (Manila 2020 pp.191-217)
+	- _**Modern C++.** Ch. 4 (Manila 2020 pp.191-217)_
 	- _**Exploring C++20.** Ch. 30 (Lischner 2021 pp. 203-209)_
-	- **Advanced C++.** Ch. 9 (Quinn 2020 pp. 273-299)
+	- _**Advanced C++.** Ch. 9 (Quinn 2020 pp. 273-299)_
 - **Professional C++.** Ch. 5-6; (Gregoire 2021 pp. 169-207)
 - **Professional C++.** Ch. 8 (Gregoire 2021 pp. 250-282)
 	- _**Exploring C++20.** Ch. 33-35 (Lischner 2021 pp. 225-247)_
@@ -82,13 +82,13 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 	- _**Exploring C++20.** Ch. 37 (Lischner 2021 pp. 259-264)_
 - **Professional C++.** Ch. 9 (Gregoire 2021 pp. 283-335)
 	- _**A Tour of C++.** Ch. 4 Stroustrup 2018 (Stroustrup 2018 pp. 47-64)_
-	- **Modern C++.** Ch. 3 (Manila 2020 pp.143-190)
+	- _**Modern C++.** Ch. 3 (Manila 2020 pp.143-190)_
 	- **Exploring C++20.** Ch. 39 (Lischner 2021 pp. 275-283)
 	- _**Exploring C++20.** Ch. 40 (Lischner 2021 pp. 285-294)_
 	- **Exploring C++20.** Ch. 41 (Lischner 2021 pp. 295-304)
 	- _**A Tour of C++.** Ch. 5 (Stroustrup 2018 pp. 65-77)_
-	- **Advanced C++.** Ch. 3 (Quinn 2020 pp. 73-102)
-	- **Expert C++.** Ch. 3 (Grigoriyan & Wu 2020 pp. 71-120)
+	- _**Advanced C++.** Ch. 3 (Quinn 2020 pp. 73-102)_
+	- _**Expert C++.** Ch. 3 (Grigoriyan & Wu 2020 pp. 71-120)_
 - **A Tour of C++.** Ch. 3 (Stroustrup 2018 pp. 29-46)
 	- **Exploring C++20.** Ch. 42 (Lischner 2021 pp. 305-314)
 	- **Clean C++20.** Ch. 6 (Roth 2021 pp. 221-291)
@@ -248,12 +248,12 @@ _(each part included as PDF-file)_
 	- [Part 10](Notes/CS2CPP_notes_part_10.pdf)
 		- Professional C++. Ch. 9. Mastering Classes and Objects
 		- Exploring C++20. Ch. 39. Virtual functions
-		- Modern C++. Ch. 3. Exploring functions
+		- _Modern C++. Ch. 3. Exploring functions_
 		- _Exploring C++20. Ch. 40. Classes and Types_
 		- Exploring C++20. Ch. 41. Declarations and Definitions
 		- _A Tour of C++. Ch. 5. Essential Operations_
-		- Advanced C++. Ch. 3. Implementing Move Semantics
-		- Expert C++. Ch. 3. Details of Object-Oriented Programming
+		- _Advanced C++. Ch. 3. Implementing Move Semantics_
+		- _Expert C++. Ch. 3. Details of Object-Oriented Programming__
 	- [Part 11](Notes/CS2CPP_notes_part_11.pdf)
 		- A Tour of C++. Ch. 3. Modularity
 		- Exploring C++20. Ch. 42. Modules
