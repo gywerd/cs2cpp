@@ -92,9 +92,9 @@ _Optional_ reading marked with _italics_ is `nice for reference` and may be skim
 - **A Tour of C++.** Ch. 3 (Stroustrup 2018 pp. 29-46)
 	- **Exploring C++20.** Ch. 42 (Lischner 2021 pp. 305-314)
 	- **Clean C++20.** Ch. 6 (Roth 2021 pp. 221-291)
+	- _**Modern C++.** Ch. 12 (Manila 2020 pp. 643-657)_
+	- _**Advanced C++.** Ch. 13 (Quinn 2020 pp. 409-413)_
 	- _**Exploring C++20.** Ch. 43 (Lischner 2021 pp. 315-321)_
-	- **Modern C++.** Ch. 12 (Manila 2020 pp. 643-657)
-	- **Advanced C++.** Ch. 13 (Quinn 2020 pp. 409-413)
 - **Professional C++.** Ch. 10 (Gregoire 2021 pp. 337-395)
 	- _**Exploring C++20.** Ch. 38 (Lischner 2021 pp. 265-273)_
 	- **C++20 Recipes.** Ch. 6 (Browning and Sutherland 2020 pp. 189-213)
@@ -258,8 +258,8 @@ _(each part included as PDF-file)_
 		- A Tour of C++. Ch. 3. Modularity
 		- Exploring C++20. Ch. 42. Modules
 		- Clean C++20. Ch. 6. Modularuty
-		- Modern C++. Ch. 12. Modules
-		- Advanced C++. Ch. 13. Modules
+		- _Modern C++. Ch. 12. Modules_
+		- _Advanced C++. Ch. 13. Modules_
 		- _Exploring C++20. Ch. 43. Old-Fashioned "Modules"_
 	- [Part 12](Notes/CS2CPP_notes_part_12.pdf)
 		- Professional C++. Ch. 10. Discovering Inheritance Techniques
